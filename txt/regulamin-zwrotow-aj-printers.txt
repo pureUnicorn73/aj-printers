@@ -10,7 +10,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 1. Zwrot jest dopuszczalny, gdy Klient otrzymał Produkt w liczbie większej niż wynikająca z Zamówienia albo Produkt inny niż zamówiony.
 2. Klient powinien sprawdzić zgodność dostawy z Zamówieniem niezwłocznie po odbiorze.
 3. Niezgodność ilościową lub asortymentową należy zgłosić Sprzedawcy niezwłocznie, nie później niż w terminie 48 godzin od odbioru przesyłki, o ile charakter sprawy pozwala na jej wykrycie przy zwykłej weryfikacji dostawy.
-4. Zgłoszenie należy przesłać na adres biuro@ajprinters.pl i wskazać: numer Zamówienia, opis niezgodności, zdjęcia Produktu i opakowania oraz dane kontaktowe.
+4. Zgłoszenie należy przesłać na adres sklep@ajprinters.pl i wskazać: numer Zamówienia, opis niezgodności, zdjęcia Produktu i opakowania oraz dane kontaktowe.
 5. Jeżeli zwrot wynika z pomyłki Sprzedawcy, koszty uzgodnionego zwrotu ponosi Sprzedawca.
 
 § 3. Zwrot dobrowolny za zgodą Sprzedawcy
@@ -19,7 +19,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 3. Zwrot dobrowolny odbywa się na koszt i ryzyko Klienta, chyba że strony uzgodniły inaczej.
 
 § 4. Zgłoszenie zwrotu
-1. Zgłoszenie zwrotu należy wysłać na adres biuro@ajprinters.pl.
+1. Zgłoszenie zwrotu należy wysłać na adres sklep@ajprinters.pl.
 2. Zgłoszenie powinno zawierać: numer Zamówienia, nazwę Produktu, ilość, przyczynę zwrotu, zdjęcia Produktu i opakowania oraz dane Klienta.
 3. Samo wysłanie zgłoszenia nie oznacza akceptacji zwrotu przez Sprzedawcę.
 4. Zwrot można wysłać dopiero po otrzymaniu od Sprzedawcy potwierdzenia przyjęcia zgłoszenia i instrukcji wysyłki.

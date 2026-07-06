@@ -26,7 +26,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 5. W przypadku wady, o której sprzedający i kupujący nie wiedzieli w chwili zakupu, możliwa jest wymiana wadliwego Produktu, naprawa, korekta dokumentu sprzedaży albo inne rozstrzygnięcie właściwe dla danego przypadku.
 
 § 4. Złożenie reklamacji gwarancyjnej produktu THI
-1. Reklamację produktu THI zakupionego w aj printers należy zgłosić do aj printers na adres biuro@ajprinters.pl. aj printers poinformuje Klienta o dalszym sposobie postępowania, w tym o ewentualnej procedurze dostawcy, gwaranta albo serwisu.
+1. Reklamację produktu THI zakupionego w aj printers należy zgłosić do aj printers na adres sklep@ajprinters.pl. aj printers poinformuje Klienta o dalszym sposobie postępowania, w tym o ewentualnej procedurze dostawcy, gwaranta albo serwisu.
 2. Zgłoszenie powinno zawierać co najmniej: dane Klienta, numer Zamówienia lub faktury, nazwę i model Produktu, opis wady, zdjęcia Produktu i opakowania, zdjęcia etykiet oraz - jeżeli dotyczy - wydruki testowe, raport stanu materiałów eksploatacyjnych lub zdjęcie komunikatu z urządzenia.
 3. Jeżeli w toku obsługi zgłoszenia zostanie nadany numer RMA albo inny numer reklamacyjny, numer ten należy umieścić w widocznym miejscu na kartonie zbiorczym zawierającym reklamowany Produkt.
 4. Brak numeru reklamacyjnego, jeżeli został wymagany, może skutkować wstrzymaniem rozpatrywania reklamacji do czasu uzupełnienia dokumentacji.
@@ -57,7 +57,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 4. Pozytywnie rozpatrzone reklamacje gwarancyjne zostaną odesłane do Klienta na koszt gwaranta albo aj printers, zgodnie z ustalonym sposobem obsługi sprawy.
 
 § 8. Zgłoszenie uszkodzonego sprzętu - produkty THI
-1. Jeżeli Klient twierdzi, że uszkodzenie urządzenia drukującego powstało bezpośrednio wskutek użycia Produktu THI zakupionego w aj printers, powinien niezwłocznie zgłosić sprawę do aj printers na adres biuro@ajprinters.pl. aj printers może następnie wskazać kontakt z działem wsparcia technicznego dostawcy albo gwaranta.
+1. Jeżeli Klient twierdzi, że uszkodzenie urządzenia drukującego powstało bezpośrednio wskutek użycia Produktu THI zakupionego w aj printers, powinien niezwłocznie zgłosić sprawę do aj printers na adres sklep@ajprinters.pl. aj printers może następnie wskazać kontakt z działem wsparcia technicznego dostawcy albo gwaranta.
 2. Warunkiem przyjęcia zgłoszenia jest posiadanie Produktu, który był używany podczas awarii, oraz przekazanie informacji pozwalających zweryfikować związek przyczynowy pomiędzy Produktem a uszkodzeniem urządzenia.
 3. W zgłoszeniu należy przesłać opis okoliczności, zdjęcia pokazujące wadę, model i numer seryjny urządzenia, model użytego Produktu, numer Zamówienia lub faktury oraz - jeżeli to możliwe - wydruki testowe albo raport z urządzenia.
 4. Uszkodzone urządzenie należy przygotować do transportu zgodnie z wymaganiami producenta urządzenia i firmy kurierskiej, w szczególności używając odpowiedniego kartonu, styropianu, folii bąbelkowej albo innego wypełnienia pustych przestrzeni.

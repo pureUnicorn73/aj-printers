@@ -2,7 +2,7 @@ Reklamacje aj printers
 Data obowiązywania: [do uzupełnienia przed publikacją]
 
 § 1. Informacje ogólne
-1. Dokładamy starań, aby produkty dotarły w prawidłowym stanie i były zgodne z umową. Jeżeli wystąpi problem, prosimy o przesłanie zgłoszenia na adres biuro@ajprinters.pl.
+1. Dokładamy starań, aby produkty dotarły w prawidłowym stanie i były zgodne z umową. Jeżeli wystąpi problem, prosimy o przesłanie zgłoszenia na adres sklep@ajprinters.pl.
 2. Zgłoszenie powinno zawierać dane Klienta, numer Zamówienia, opis problemu, żądanie Klienta oraz dokumentację pozwalającą ocenić zgłoszenie.
 3. W przypadku Konsumentów i Przedsiębiorców na prawach konsumenta procedura reklamacyjna nie ogranicza uprawnień wynikających z obowiązujących przepisów o niezgodności towaru z umową.
 
@@ -14,7 +14,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 § 3. Uszkodzona przesyłka
 1. Jeżeli przesyłka jest uszkodzona z zewnątrz, należy zgłosić zastrzeżenia kurierowi przy doręczeniu i sporządzić protokół szkody. Jeżeli uszkodzenie jest istotne, można odmówić przyjęcia przesyłki.
 2. Jeżeli uszkodzenie ujawniło się dopiero po otwarciu paczki, należy niezwłocznie zgłosić sprawę Sprzedawcy i przewoźnikowi oraz zachować opakowanie do czasu zakończenia postępowania.
-3. Zgłoszenie szkody transportowej do aj printers należy wysłać na adres biuro@ajprinters.pl, najlepiej w terminie 24 godzin od odbioru przesyłki.
+3. Zgłoszenie szkody transportowej do aj printers należy wysłać na adres sklep@ajprinters.pl, najlepiej w terminie 24 godzin od odbioru przesyłki.
 4. Do zgłoszenia należy dołączyć:
    a) opis okoliczności i numer Zamówienia;
    b) numer listu przewozowego;
@@ -36,7 +36,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
    e) uszkodzony Produkt.
 3. W przypadku przesyłek InPost odebranych z Paczkomatu należy zgłosić szkodę zgodnie z procedurą InPost, w szczególności poprzez formularz lub protokół szkody InPost.
 4. W przypadku przesyłek odbieranych z automatów paczkowych lub punktów odbioru innych przewoźników należy skorzystać z właściwego formularza szkody, elektronicznego protokołu szkody albo procedury reklamacyjnej danego przewoźnika.
-5. Zgłoszenie do aj printers należy przesłać na adres biuro@ajprinters.pl niezwłocznie, najlepiej w terminie 24 godzin od odbioru przesyłki, dołączając opis sytuacji, zdjęcia oraz protokół szkody albo potwierdzenie zgłoszenia szkody u przewoźnika.
+5. Zgłoszenie do aj printers należy przesłać na adres sklep@ajprinters.pl niezwłocznie, najlepiej w terminie 24 godzin od odbioru przesyłki, dołączając opis sytuacji, zdjęcia oraz protokół szkody albo potwierdzenie zgłoszenia szkody u przewoźnika.
 6. Do czasu zakończenia postępowania reklamacyjnego należy zachować opakowanie, wypełnienia, etykietę przewozową oraz uszkodzony Produkt.
 7. Odbiór przesyłki z automatu paczkowego, paczkomatu albo punktu odbioru nie wyłącza obowiązku dochowania należytej staranności przy dokumentowaniu szkody transportowej. Brak dokumentacji może utrudnić lub uniemożliwić skuteczne dochodzenie roszczeń wobec przewoźnika.
 
@@ -76,7 +76,7 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
    g) produkty bez marki własnej (BLK) - 12 miesięcy;
    h) produkty oryginalne OEM - 6 miesięcy, chyba że producent przewidział inne warunki;
    i) pozostałe produkty z oferty THI - 6 miesięcy, chyba że przy Produkcie wskazano inaczej.
-4. Reklamację produktu THI zakupionego w aj printers należy zgłosić na adres biuro@ajprinters.pl. aj printers może wskazać dalszą procedurę, w tym obsługę przez dostawcę, gwaranta albo autoryzowany serwis.
+4. Reklamację produktu THI zakupionego w aj printers należy zgłosić na adres sklep@ajprinters.pl. aj printers może wskazać dalszą procedurę, w tym obsługę przez dostawcę, gwaranta albo autoryzowany serwis.
 5. Jeżeli zostanie nadany numer RMA albo inny numer reklamacyjny, należy umieścić go w widocznym miejscu na kartonie zbiorczym zawierającym reklamowany Produkt. Brak wymaganego numeru może wstrzymać rozpatrywanie sprawy do czasu uzupełnienia dokumentacji.
 6. Reklamowany Produkt powinien być dostarczony w opakowaniu fabrycznym albo zastępczym zapewniającym ochronę w transporcie. W przypadku obsługi bezpośrednio przez THI aj printers może wskazać adres: THI Sp. z o.o. Sp.k., ul. Nowe Sady 2, 94-102 Łódź.
 7. Gwarancji produktów THI mogą nie podlegać produkty zużyte, uszkodzone mechanicznie, z naruszonymi plombami, przechowywane w nieprawidłowych warunkach, uszkodzone wskutek czynników zewnętrznych albo noszące ślady ingerencji.

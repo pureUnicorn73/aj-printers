@@ -3,7 +3,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 
 § 1. Administrator danych osobowych
 1. Administratorem danych osobowych przetwarzanych w związku ze sklepem internetowym ajprinters.pl jest aj printers Anna Jaros-Kucińska z siedzibą w Ziewanicach 11, 95-015 Głowno, NIP: 7331289363.
-2. Kontakt z Administratorem: biuro@ajprinters.pl, telefon: +48 572 701 802.
+2. Kontakt z Administratorem: sklep@ajprinters.pl, telefon: +48 572 701 802.
 3. Administrator przetwarza dane osobowe zgodnie z RODO oraz obowiązującymi przepisami prawa.
 4. Administrator nie wyznaczył Inspektora Ochrony Danych, ponieważ nie ma takiego obowiązku.
 
@@ -54,7 +54,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 § 10. Prawa osób, których dane dotyczą
 1. Osobie, której dane dotyczą, przysługuje prawo dostępu do danych, sprostowania danych, usunięcia danych, ograniczenia przetwarzania, przenoszenia danych, wniesienia sprzeciwu oraz cofnięcia zgody.
 2. Cofnięcie zgody nie wpływa na zgodność z prawem przetwarzania dokonanego przed jej cofnięciem.
-3. Żądania można kierować na adres biuro@ajprinters.pl.
+3. Żądania można kierować na adres sklep@ajprinters.pl.
 4. Osoba, której dane dotyczą, ma prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.
 
 § 11. Zautomatyzowane podejmowanie decyzji

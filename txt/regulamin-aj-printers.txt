@@ -3,7 +3,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 
 § 1. Informacje ogólne
 1. Sklep internetowy dostępny pod adresem ajprinters.pl prowadzi aj printers Anna Jaros-Kucińska z siedzibą w Ziewanicach 11, 95-015 Głowno, NIP: 7331289363.
-2. Kontakt ze Sprzedawcą: e-mail: biuro@ajprinters.pl, telefon: +48 572 701 802.
+2. Kontakt ze Sprzedawcą: e-mail: sklep@ajprinters.pl, telefon: +48 572 701 802.
 3. Regulamin określa zasady korzystania ze Sklepu, składania zamówień, zawierania i wykonywania umów sprzedaży, płatności, dostaw, reklamacji, zwrotów oraz prawa odstąpienia od umowy.
 4. Regulamin jest regulaminem świadczenia usług drogą elektroniczną w rozumieniu ustawy o świadczeniu usług drogą elektroniczną.
 5. Dokumenty powiązane: Polityka prywatności i cookies (polityka-prywatnosci-aj-printers.pdf), Reklamacje (reklamacje-aj-printers.pdf), Regulamin zwrotów (regulamin-zwrotow-aj-printers.pdf), Odstąpienie od umowy (odstapienie-od-umowy-aj-printers.pdf), Formularz odstąpienia (formularz-odstapienia-aj-printers.pdf), Informacja o zagrożeniach (informacja-o-zagrozeniach-aj-printers.pdf), Warunki gwarancji produktów THI (warunki-gwarancji-produktow-thi-aj-printers.pdf).
@@ -68,7 +68,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 
 § 9. Reklamacje, niezgodność towaru z umową i gwarancje
 1. Sprzedawca odpowiada wobec Konsumenta i Przedsiębiorcy na prawach konsumenta za brak zgodności Produktu z umową na zasadach wynikających z obowiązujących przepisów.
-2. Reklamację można złożyć e-mailem na adres biuro@ajprinters.pl albo pisemnie na adres Sprzedawcy: Ziewanice 11, 95-015 Głowno.
+2. Reklamację można złożyć e-mailem na adres sklep@ajprinters.pl albo pisemnie na adres Sprzedawcy: Ziewanice 11, 95-015 Głowno.
 3. Reklamacja powinna zawierać co najmniej: dane Klienta, numer Zamówienia, opis problemu, żądanie Klienta oraz dokumentację umożliwiającą ocenę zgłoszenia, np. zdjęcia uszkodzeń, opakowania, etykiety przewozowej lub wydruki testowe.
 4. Sprzedawca ustosunkuje się do reklamacji Konsumenta w terminie 14 dni od jej otrzymania, o ile przepisy prawa nie przewidują innego terminu.
 5. Szczegółowa procedura reklamacyjna, w tym procedura dla szkód transportowych i linki do protokołów przewoźników, znajduje się w dokumencie Reklamacje (reklamacje-aj-printers.pdf).
