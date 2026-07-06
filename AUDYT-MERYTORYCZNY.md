@@ -18,6 +18,11 @@ Stan:
 - nazwa firmy w TXT: `aj printers`;
 - domena: `ajprinters.pl`;
 - kontakt sklepu: `sklep@ajprinters.pl`;
+- telefon sklepu: potwierdzony jako aktualny;
+- operator platnosci: Tpay potwierdzony jako zgodny;
+- newsletter: zostawiony warunkowo, do wlaczenia tylko jezeli funkcja bedzie aktywna w sklepie;
+- cookies/analityka/marketing: do potwierdzenia po konfiguracji sklepu i mechanizmu zgod;
+- produkty personalizowane/uslugi indywidualne: doprecyzowano pod druk na ploterze, kserowanie i skanowanie;
 - brak wykrytych pozostalosci `Rafcom`;
 - brak wykrytego starego adresu `biuro@ajprinters.pl`.
 
