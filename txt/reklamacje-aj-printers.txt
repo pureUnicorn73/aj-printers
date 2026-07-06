@@ -4,7 +4,8 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 § 1. Informacje ogólne
 1. Dokładamy starań, aby produkty dotarły w prawidłowym stanie i były zgodne z umową. Jeżeli wystąpi problem, prosimy o przesłanie zgłoszenia na adres sklep@ajprinters.pl.
 2. Zgłoszenie powinno zawierać dane Klienta, numer Zamówienia, opis problemu, żądanie Klienta oraz dokumentację pozwalającą ocenić zgłoszenie.
-3. W przypadku Konsumentów i Przedsiębiorców na prawach konsumenta procedura reklamacyjna nie ogranicza uprawnień wynikających z obowiązujących przepisów o niezgodności towaru z umową.
+3. Pomocniczo można skorzystać z formularza reklamacyjnego dostępnego pod adresem: /pliki/dokumenty/formularz-reklamacyjny-aj-printers.pdf. Skorzystanie z formularza nie jest obowiązkowe.
+4. W przypadku Konsumentów i Przedsiębiorców na prawach konsumenta procedura reklamacyjna nie ogranicza uprawnień wynikających z obowiązujących przepisów o niezgodności towaru z umową.
 
 § 2. Rozbieżności w dostawie
 1. Niezgodności ilościowe lub asortymentowe należy zgłaszać niezwłocznie po odbiorze przesyłki, rekomendacyjnie nie później niż w terminie 48 godzin od odbioru.
@@ -42,14 +43,14 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 
 § 5. Protokoły szkody przewoźników do pobrania
 W przypadku szkody transportowej należy użyć formularza właściwego dla przewoźnika albo formularza udostępnionego przez kuriera, punkt odbioru lub system przewoźnika. Pliki do podlinkowania na stronie:
-- DHL: protokol-szkody-dhl.pdf
-- DPD: protokol-szkody-dpd.pdf
-- FedEx: protokol-szkody-fedex.pdf
-- GEODIS: protokol-szkody-geodis.pdf
-- GLS: protokol-szkody-gls.pdf
-- InPost / Paczkomat InPost: protokol-szkody-inpost.pdf
-- Raben: protokol-szkody-raben.pdf
-- UPS: protokol-szkody-ups.pdf
+- DHL: /pliki/protokoly-szkody/protokol-szkody-dhl.pdf
+- DPD: /pliki/protokoly-szkody/protokol-szkody-dpd.pdf
+- FedEx: /pliki/protokoly-szkody/protokol-szkody-fedex.pdf
+- GEODIS: /pliki/protokoly-szkody/protokol-szkody-geodis.pdf
+- GLS: /pliki/protokoly-szkody/protokol-szkody-gls.pdf
+- InPost / Paczkomat InPost: /pliki/protokoly-szkody/protokol-szkody-inpost.pdf
+- Raben: /pliki/protokoly-szkody/protokol-szkody-raben.pdf
+- UPS: /pliki/protokoly-szkody/protokol-szkody-ups.pdf
 
 § 6. Reklamacje produktów drukowanych i personalizowanych
 1. W przypadku produktów wykonywanych na indywidualne zamówienie należy dołączyć zdjęcia Produktu, opis niezgodności, numer Zamówienia oraz - jeżeli dotyczy - zaakceptowany projekt lub plik produkcyjny.
@@ -65,7 +66,7 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 
 § 8. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
 1. aj printers sprzedaje również produkty pochodzące z oferty dostawcy THI Sp. z o.o. Sp.k., w tym produkty marek JetWorld, CartridgeWeb, WOX, Oxe, Aeropack, Assima oraz produkty bez marki własnej (BLK), o ile są dostępne w ofercie Sklepu.
-2. Warunki gwarancji dla produktów THI zostały opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (warunki-gwarancji-produktow-thi-aj-printers.pdf).
+2. Warunki gwarancji dla produktów THI zostały opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (https://ajprinters.pl/warunki-gwarancji-produktow-thi/).
 3. Podstawowe okresy gwarancji produktów THI:
    a) tonery i moduły bębna JetWorld i CartridgeWeb zakupione po 01.01.2018 r. - gwarancja dożywotnia;
    b) tusze JetWorld i WOX zakupione po 01.01.2018 r. - gwarancja dożywotnia;

@@ -53,7 +53,7 @@ Rekomendacja:
 na stronie `Reklamacje` dodac link:
 `/pliki/dokumenty/formularz-reklamacyjny-aj-printers.pdf`
 
-W samej tresci `txt/reklamacje-aj-printers.txt` warto dodac krotka wzmianke o formularzu reklamacyjnym jako pomocniczym formularzu do pobrania.
+W tresci `txt/reklamacje-aj-printers.txt` dodano wzmianke o formularzu reklamacyjnym jako pomocniczym formularzu do pobrania.
 
 ### 5. Instrukcje THI
 
@@ -64,7 +64,7 @@ klient detaliczny sklada reklamacje do aj printers. aj printers informuje go o d
 
 ### 6. README-linkowanie
 
-Plik `txt/README-linkowanie.txt` zawiera starszy adres `/zwroty/`.
+Plik `txt/README-linkowanie.txt` zostal zaktualizowany do docelowego adresu zwrotow `https://ajprinters.pl/content/12-zwroty`.
 
 Rekomendacja:
 zaktualizowac go do `https://ajprinters.pl/content/12-zwroty` albo uznac, ze nadrzedna checklista `WDROZENIE-CHECKLISTA.md` zastępuje ten plik.
@@ -74,5 +74,5 @@ zaktualizowac go do `https://ajprinters.pl/content/12-zwroty` albo uznac, ze nad
 1. Ustalic date publikacji dokumentow.
 2. Nie odsylac klienta detalicznego bezposrednio do systemu THI; reklamacja trafia do aj printers, a dalsze kroki wskazuje aj printers.
 3. Zaktualizowac linki w TXT pod CMS.
-4. Dodac wzmianke o formularzu reklamacyjnym w `txt/reklamacje-aj-printers.txt`.
+4. Wzmianka o formularzu reklamacyjnym w `txt/reklamacje-aj-printers.txt` zostala dodana.
 5. Po zatwierdzeniu zmian wygenerowac albo podmienic finalne PDF-y, jezeli PDF-y maja odzwierciedlac poprawione TXT.
