@@ -75,4 +75,4 @@ zaktualizowac go do `https://ajprinters.pl/content/12-zwroty` albo uznac, ze nad
 2. Nie odsylac klienta detalicznego bezposrednio do systemu THI; reklamacja trafia do aj printers, a dalsze kroki wskazuje aj printers.
 3. Zaktualizowac linki w TXT pod CMS.
 4. Wzmianka o formularzu reklamacyjnym w `txt/reklamacje-aj-printers.txt` zostala dodana.
-5. Po zatwierdzeniu zmian wygenerowac albo podmienic finalne PDF-y, jezeli PDF-y maja odzwierciedlac poprawione TXT.
+5. PDF-y w katalogu `pdf/` zostaly odswiezone po zmianach w TXT.

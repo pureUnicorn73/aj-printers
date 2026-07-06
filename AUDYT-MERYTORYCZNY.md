@@ -70,16 +70,13 @@ doprecyzowano, ze reklamacje produktu THI zakupionego w aj printers klient zglas
 ### 6. PDF-y
 
 Stan:
-TXT-y zostaly zaktualizowane, ale PDF-y w katalogu `pdf/` nie zostaly jeszcze odswiezone.
+PDF-y w katalogu `pdf/` zostaly odswiezone po zmianach w plikach TXT.
 
-Ryzyko:
-PDF-y moga zawierac starsza nazwe `AJ Printers`, stary adres `biuro@ajprinters.pl`, stare linki lub stare fragmenty THI.
-
-Rekomendacja:
-po zamknieciu tresci TXT wygenerowac albo podmienic finalne PDF-y.
+Status:
+sprawdzono, ze odswiezone PDF-y nie zawieraja starego adresu `biuro@ajprinters.pl`, starego zapisu `AJ Printers` ani odniesien do Rafcom. Pliki zostaly wyrenderowane kontrolnie.
 
 ## Rekomendowana kolejnosc nastepnych zmian
 
 1. Termin 48 godzin zostal doprecyzowany w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/reklamacje-aj-printers.txt`.
 2. Oplata administracyjna przy zwrotach THI zostala doprecyzowana w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/warunki-gwarancji-produktow-thi-aj-printers.txt`.
-3. Po zatwierdzeniu tresci odswiezyc PDF-y po zmianach w plikach TXT.
+3. PDF-y zostaly odswiezone po zmianach w plikach TXT.
