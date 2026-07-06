@@ -35,4 +35,4 @@ Przed publikacją należy uzupełnić datę obowiązywania, potwierdzić aktywne
 Dodatkowy dokument gwarancyjny THI:
 - /warunki-gwarancji-produktow-thi/ -> warunki-gwarancji-produktow-thi-aj-printers.pdf
 - Dokument należy podlinkować z: Reklamacje AJ Printers, Regulamin zwrotów AJ Printers oraz Regulamin sklepu AJ Printers.
-- Do uzupełnienia po przekazaniu materiałów: link do instrukcji składania reklamacji w serwisie b2b.thi.pl oraz link do instrukcji prawidłowego pakowania zwrotów/reklamacji.
+- Klient detaliczny zgłasza reklamację produktu THI do AJ Printers. Nie linkujemy publicznie systemu reklamacyjnego THI; dalsze kroki wskazuje AJ Printers w odpowiedzi na zgłoszenie.
