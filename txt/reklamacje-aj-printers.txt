@@ -64,7 +64,24 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 4. Jeżeli Produkt jest objęty gwarancją producenta, Klient może zostać poproszony o skorzystanie z procedury producenta albo autoryzowanego serwisu. aj printers udzieli informacji o dalszym postępowaniu w zakresie posiadanych danych.
 
 
-§ 8. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
+§ 8. Zgłoszenie uszkodzenia urządzenia
+1. W przypadku zgłoszenia uszkodzenia urządzenia, które według Klienta mogło powstać w związku z użyciem produktu zakupionego w aj printers, Klient powinien niezwłocznie zaprzestać używania produktu oraz zabezpieczyć produkt, urządzenie, opakowanie, etykiety, dokumentację zakupu i inne elementy mogące mieć znaczenie dla oceny zgłoszenia.
+2. Klient powinien przekazać aj printers w szczególności:
+   a) numer Zamówienia lub faktury;
+   b) nazwę i model produktu;
+   c) oznaczenie partii, numer seryjny lub inne oznaczenia produktu, jeżeli występują;
+   d) model i numer seryjny urządzenia;
+   e) opis okoliczności powstania uszkodzenia;
+   f) datę zauważenia problemu;
+   g) dokumentację zdjęciową produktu, urządzenia, opakowania i widocznych uszkodzeń;
+   h) opinię serwisową lub inną dokumentację wskazującą przyczynę uszkodzenia;
+   i) kosztorys, fakturę lub rachunek, jeżeli Klient żąda zwrotu kosztów naprawy.
+3. Do czasu zakończenia weryfikacji zgłoszenia Klient powinien, o ile jest to możliwe, zachować produkt, opakowanie oraz elementy, które mogą być potrzebne do oceny przyczyny uszkodzenia.
+4. Jeżeli przed zgłoszeniem sprawy do aj printers urządzenie zostało naprawione, rozmontowane, przekazane do serwisu, zmodyfikowane albo produkt został wyrzucony, może to utrudnić lub uniemożliwić rzetelną ocenę zgłoszenia.
+5. aj printers może odmówić uznania roszczenia dotyczącego uszkodzenia urządzenia, jeżeli z dokumentacji lub okoliczności sprawy wynika, że uszkodzenie nie pozostaje w związku z produktem zakupionym w aj printers, powstało wskutek nieprawidłowego użytkowania, nieprawidłowego montażu, użycia niezgodnego z instrukcją, działania czynników zewnętrznych, zużycia eksploatacyjnego, wcześniejszej wady urządzenia albo ingerencji osób trzecich.
+6. Powyższe zasady nie ograniczają praw Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z powszechnie obowiązujących przepisów prawa.
+
+§ 9. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
 1. aj printers sprzedaje również produkty pochodzące z oferty dostawcy THI Sp. z o.o. Sp.k., w tym produkty marek JetWorld, CartridgeWeb, WOX, Oxe, Aeropack, Assima oraz produkty bez marki własnej (BLK), o ile są dostępne w ofercie Sklepu.
 2. Warunki gwarancji dla produktów THI zostały opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (https://ajprinters.pl/warunki-gwarancji-produktow-thi/).
 3. Podstawowe okresy gwarancji produktów THI:
@@ -84,7 +101,7 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 8. Jeżeli Klient twierdzi, że użycie produktu THI spowodowało uszkodzenie urządzenia drukującego, powinien niezwłocznie zgłosić sprawę do aj printers, przekazując opis okoliczności, zdjęcia wady, model i numer seryjny urządzenia, model użytego produktu, numer Zamówienia lub faktury oraz dostępne wydruki testowe albo raporty z urządzenia.
 9. Szczegółowe zasady zgłoszenia uszkodzonego sprzętu, terminy, sposób weryfikacji oraz zasady zwrotów produktów THI zawiera dokument wskazany w ust. 2.
 
-§ 9. Sposób rozpatrzenia reklamacji
+§ 10. Sposób rozpatrzenia reklamacji
 1. Po otrzymaniu kompletnego zgłoszenia Sprzedawca przystąpi do jego weryfikacji.
 2. Sprzedawca może poprosić o uzupełnienie dokumentacji, odesłanie Produktu lub przekazanie dodatkowych informacji.
 3. Reklamacje Konsumentów rozpatrywane są w terminach wynikających z obowiązujących przepisów prawa. W typowych przypadkach Sprzedawca ustosunkuje się do reklamacji w terminie 14 dni od otrzymania zgłoszenia.
