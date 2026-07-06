@@ -62,7 +62,7 @@ W pliku `txt/warunki-gwarancji-produktow-thi-aj-printers.txt` zostaly dwa placeh
 - linia 34: link do instrukcji prawidlowego pakowania zwrotow/reklamacji.
 
 Rekomendacja:
-albo uzupelnic linki, albo usunac te punkty z wersji publikowanej, jezeli linki nie sa gotowe.
+pozostawic punkty jako miejsca do uzupelnienia. Linki zostana dopisane recznie po przekazaniu wlasciwych adresow URL lub plikow.
 
 ### 6. README-linkowanie
 
@@ -74,8 +74,7 @@ zaktualizowac go do `https://ajprinters.pl/content/12-zwroty` albo uznac, ze nad
 ## Proponowana kolejnosc poprawek
 
 1. Ustalic date publikacji dokumentow.
-2. Zdecydowac, czy placeholdery THI usuwamy czy uzupelniamy linkami.
+2. Pozostawic placeholdery THI do recznego uzupelnienia po przekazaniu wlasciwych linkow lub plikow.
 3. Zaktualizowac linki w TXT pod CMS.
 4. Dodac wzmianke o formularzu reklamacyjnym w `txt/reklamacje-aj-printers.txt`.
 5. Po zatwierdzeniu zmian wygenerowac albo podmienic finalne PDF-y, jezeli PDF-y maja odzwierciedlac poprawione TXT.
-
