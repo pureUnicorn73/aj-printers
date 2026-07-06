@@ -60,7 +60,7 @@ W samej tresci `txt/reklamacje-aj-printers.txt` warto dodac krotka wzmianke o fo
 W pliku `txt/warunki-gwarancji-produktow-thi-aj-printers.txt` usunieto publiczne placeholdery odsyłające klienta do systemu THI i instrukcji THI.
 
 Rekomendacja:
-klient detaliczny sklada reklamacje do AJ Printers. AJ Printers informuje go o dalszym sposobie postepowania, a ogolna instrukcja pakowania pozostaje w sekcji wysylki reklamowanego produktu.
+klient detaliczny sklada reklamacje do aj printers. aj printers informuje go o dalszym sposobie postepowania, a ogolna instrukcja pakowania pozostaje w sekcji wysylki reklamowanego produktu.
 
 ### 6. README-linkowanie
 
@@ -72,7 +72,7 @@ zaktualizowac go do `https://ajprinters.pl/content/12-zwroty` albo uznac, ze nad
 ## Proponowana kolejnosc poprawek
 
 1. Ustalic date publikacji dokumentow.
-2. Nie odsylac klienta detalicznego bezposrednio do systemu THI; reklamacja trafia do AJ Printers, a dalsze kroki wskazuje AJ.
+2. Nie odsylac klienta detalicznego bezposrednio do systemu THI; reklamacja trafia do aj printers, a dalsze kroki wskazuje aj printers.
 3. Zaktualizowac linki w TXT pod CMS.
 4. Dodac wzmianke o formularzu reklamacyjnym w `txt/reklamacje-aj-printers.txt`.
 5. Po zatwierdzeniu zmian wygenerowac albo podmienic finalne PDF-y, jezeli PDF-y maja odzwierciedlac poprawione TXT.

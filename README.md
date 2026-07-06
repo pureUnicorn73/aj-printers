@@ -1,9 +1,9 @@
-# Dokumenty prawne AJ Printers
+# Dokumenty prawne aj printers
 
-To repozytorium obejmuje roboczy pakiet dokumentow AJ Printers.
+To repozytorium obejmuje roboczy pakiet dokumentow aj printers.
 
 Zakres:
-- `txt/` - wersje tekstowe dokumentow AJ Printers;
+- `txt/` - wersje tekstowe dokumentow aj printers;
 - `pdf/` - odpowiadajace wersje PDF;
 - `zalaczniki/` - formularze i protokoly szkody przewoznikow.
 

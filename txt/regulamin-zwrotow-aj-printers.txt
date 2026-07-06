@@ -1,10 +1,10 @@
-Regulamin zwrotów AJ Printers
+Regulamin zwrotów aj printers
 Data obowiązywania: [do uzupełnienia przed publikacją]
 
 § 1. Postanowienia ogólne
 1. Regulamin zwrotów określa zasady zwrotów innych niż ustawowe odstąpienie od umowy oraz innych niż reklamacja z tytułu niezgodności towaru z umową.
 2. Regulamin zwrotów nie ogranicza praw Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z przepisów prawa, w szczególności prawa odstąpienia od umowy, reklamacji oraz roszczeń z tytułu niezgodności towaru z umową.
-3. W sprawach nieuregulowanych stosuje się Regulamin sklepu AJ Printers i obowiązujące przepisy prawa.
+3. W sprawach nieuregulowanych stosuje się Regulamin sklepu aj printers i obowiązujące przepisy prawa.
 
 § 2. Zwrot z powodu nadwyżki ilościowej lub niezgodności asortymentowej
 1. Zwrot jest dopuszczalny, gdy Klient otrzymał Produkt w liczbie większej niż wynikająca z Zamówienia albo Produkt inny niż zamówiony.
@@ -38,9 +38,9 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 
 
 § 7. Zwroty produktów THI
-1. W przypadku produktów pochodzących z oferty dostawcy THI Sp. z o.o. Sp.k. zastosowanie mają również warunki opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez AJ Printers (warunki-gwarancji-produktow-thi-aj-printers.pdf), o ile dotyczą danego Produktu i nie są sprzeczne z bezwzględnie obowiązującymi przepisami prawa.
-2. Produkty THI podlegają zwrotowi w przypadku pomyłki po stronie AJ Printers, dostawcy albo podmiotu realizującego zamówienie.
+1. W przypadku produktów pochodzących z oferty dostawcy THI Sp. z o.o. Sp.k. zastosowanie mają również warunki opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (warunki-gwarancji-produktow-thi-aj-printers.pdf), o ile dotyczą danego Produktu i nie są sprzeczne z bezwzględnie obowiązującymi przepisami prawa.
+2. Produkty THI podlegają zwrotowi w przypadku pomyłki po stronie aj printers, dostawcy albo podmiotu realizującego zamówienie.
 3. Zwroty produktów THI z innych przyczyn możliwe są wyłącznie po wcześniejszej zgodzie Sprzedawcy i na warunkach każdorazowo uzgodnionych z Klientem.
-4. Zwracany Produkt THI powinien być nieużywany, zapakowany w fabryczne opakowanie, bez dodatkowych naklejek i opisów nienależących do producenta, dostawcy lub AJ Printers. Opakowanie i Produkt nie mogą być uszkodzone.
+4. Zwracany Produkt THI powinien być nieużywany, zapakowany w fabryczne opakowanie, bez dodatkowych naklejek i opisów nienależących do producenta, dostawcy lub aj printers. Opakowanie i Produkt nie mogą być uszkodzone.
 5. Zwrotowi co do zasady nie podlegają produkty dostarczone na specjalne zamówienie oraz produkty oryginalne OEM, chyba że obowiązujące przepisy prawa stanowią inaczej albo Sprzedawca wyrazi zgodę na zwrot.
 6. Przy zwrocie dobrowolnym produktu THI po upływie 14 dni roboczych od dnia wystawienia faktury Sprzedawca może uzgodnić z Klientem opłatę administracyjną w wysokości 10% wartości netto zwracanego Produktu, nie mniej niż 30 zł, o ile jest to dopuszczalne w danej relacji z Klientem.

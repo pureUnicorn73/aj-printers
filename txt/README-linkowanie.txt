@@ -1,4 +1,4 @@
-Pakiet dokumentów AJ Printers - instrukcja publikacji i linkowania
+Pakiet dokumentów aj printers - instrukcja publikacji i linkowania
 
 Wygenerowane dokumenty w wersji TXT i PDF:
 1. regulamin-aj-printers
@@ -34,5 +34,5 @@ Przed publikacją należy uzupełnić datę obowiązywania, potwierdzić aktywne
 
 Dodatkowy dokument gwarancyjny THI:
 - /warunki-gwarancji-produktow-thi/ -> warunki-gwarancji-produktow-thi-aj-printers.pdf
-- Dokument należy podlinkować z: Reklamacje AJ Printers, Regulamin zwrotów AJ Printers oraz Regulamin sklepu AJ Printers.
-- Klient detaliczny zgłasza reklamację produktu THI do AJ Printers. Nie linkujemy publicznie systemu reklamacyjnego THI; dalsze kroki wskazuje AJ Printers w odpowiedzi na zgłoszenie.
+- Dokument należy podlinkować z: Reklamacje aj printers, Regulamin zwrotów aj printers oraz Regulamin sklepu aj printers.
+- Klient detaliczny zgłasza reklamację produktu THI do aj printers. Nie linkujemy publicznie systemu reklamacyjnego THI; dalsze kroki wskazuje aj printers w odpowiedzi na zgłoszenie.

@@ -1,4 +1,4 @@
-Reklamacje AJ Printers
+Reklamacje aj printers
 Data obowiązywania: [do uzupełnienia przed publikacją]
 
 § 1. Informacje ogólne
@@ -14,7 +14,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 § 3. Uszkodzona przesyłka
 1. Jeżeli przesyłka jest uszkodzona z zewnątrz, należy zgłosić zastrzeżenia kurierowi przy doręczeniu i sporządzić protokół szkody. Jeżeli uszkodzenie jest istotne, można odmówić przyjęcia przesyłki.
 2. Jeżeli uszkodzenie ujawniło się dopiero po otwarciu paczki, należy niezwłocznie zgłosić sprawę Sprzedawcy i przewoźnikowi oraz zachować opakowanie do czasu zakończenia postępowania.
-3. Zgłoszenie szkody transportowej do AJ Printers należy wysłać na adres biuro@ajprinters.pl, najlepiej w terminie 24 godzin od odbioru przesyłki.
+3. Zgłoszenie szkody transportowej do aj printers należy wysłać na adres biuro@ajprinters.pl, najlepiej w terminie 24 godzin od odbioru przesyłki.
 4. Do zgłoszenia należy dołączyć:
    a) opis okoliczności i numer Zamówienia;
    b) numer listu przewozowego;
@@ -36,7 +36,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
    e) uszkodzony Produkt.
 3. W przypadku przesyłek InPost odebranych z Paczkomatu należy zgłosić szkodę zgodnie z procedurą InPost, w szczególności poprzez formularz lub protokół szkody InPost.
 4. W przypadku przesyłek odbieranych z automatów paczkowych lub punktów odbioru innych przewoźników należy skorzystać z właściwego formularza szkody, elektronicznego protokołu szkody albo procedury reklamacyjnej danego przewoźnika.
-5. Zgłoszenie do AJ Printers należy przesłać na adres biuro@ajprinters.pl niezwłocznie, najlepiej w terminie 24 godzin od odbioru przesyłki, dołączając opis sytuacji, zdjęcia oraz protokół szkody albo potwierdzenie zgłoszenia szkody u przewoźnika.
+5. Zgłoszenie do aj printers należy przesłać na adres biuro@ajprinters.pl niezwłocznie, najlepiej w terminie 24 godzin od odbioru przesyłki, dołączając opis sytuacji, zdjęcia oraz protokół szkody albo potwierdzenie zgłoszenia szkody u przewoźnika.
 6. Do czasu zakończenia postępowania reklamacyjnego należy zachować opakowanie, wypełnienia, etykietę przewozową oraz uszkodzony Produkt.
 7. Odbiór przesyłki z automatu paczkowego, paczkomatu albo punktu odbioru nie wyłącza obowiązku dochowania należytej staranności przy dokumentowaniu szkody transportowej. Brak dokumentacji może utrudnić lub uniemożliwić skuteczne dochodzenie roszczeń wobec przewoźnika.
 
@@ -60,12 +60,12 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 1. W zgłoszeniu dotyczącym tonera, tuszu, bębna, głowicy, drukarki lub innego urządzenia należy podać: model urządzenia, numer seryjny urządzenia, model reklamowanego produktu, numer Zamówienia lub faktury, opis problemu oraz zdjęcia etykiet i opakowania.
 2. Jeżeli problem jest widoczny na wydruku, należy dołączyć skan lub zdjęcie wadliwego wydruku oraz - jeżeli to możliwe - wydruk strony testowej, raport stanu materiałów eksploatacyjnych albo zdjęcie komunikatu na panelu urządzenia.
 3. Produkty zasypane, rozlane, uszkodzone mechanicznie lub niewłaściwie zabezpieczone do transportu mogą nie zostać przyjęte do reklamacji, jeżeli stan uniemożliwia ocenę zgłoszenia albo uszkodzenie powstało z przyczyn niezależnych od Sprzedawcy.
-4. Jeżeli Produkt jest objęty gwarancją producenta, Klient może zostać poproszony o skorzystanie z procedury producenta albo autoryzowanego serwisu. AJ Printers udzieli informacji o dalszym postępowaniu w zakresie posiadanych danych.
+4. Jeżeli Produkt jest objęty gwarancją producenta, Klient może zostać poproszony o skorzystanie z procedury producenta albo autoryzowanego serwisu. aj printers udzieli informacji o dalszym postępowaniu w zakresie posiadanych danych.
 
 
 § 8. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
-1. AJ Printers sprzedaje również produkty pochodzące z oferty dostawcy THI Sp. z o.o. Sp.k., w tym produkty marek JetWorld, CartridgeWeb, WOX, Oxe, Aeropack, Assima oraz produkty bez marki własnej (BLK), o ile są dostępne w ofercie Sklepu.
-2. Warunki gwarancji dla produktów THI zostały opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez AJ Printers (warunki-gwarancji-produktow-thi-aj-printers.pdf).
+1. aj printers sprzedaje również produkty pochodzące z oferty dostawcy THI Sp. z o.o. Sp.k., w tym produkty marek JetWorld, CartridgeWeb, WOX, Oxe, Aeropack, Assima oraz produkty bez marki własnej (BLK), o ile są dostępne w ofercie Sklepu.
+2. Warunki gwarancji dla produktów THI zostały opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (warunki-gwarancji-produktow-thi-aj-printers.pdf).
 3. Podstawowe okresy gwarancji produktów THI:
    a) tonery i moduły bębna JetWorld i CartridgeWeb zakupione po 01.01.2018 r. - gwarancja dożywotnia;
    b) tusze JetWorld i WOX zakupione po 01.01.2018 r. - gwarancja dożywotnia;
@@ -76,11 +76,11 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
    g) produkty bez marki własnej (BLK) - 12 miesięcy;
    h) produkty oryginalne OEM - 6 miesięcy, chyba że producent przewidział inne warunki;
    i) pozostałe produkty z oferty THI - 6 miesięcy, chyba że przy Produkcie wskazano inaczej.
-4. Reklamację produktu THI zakupionego w AJ Printers należy zgłosić na adres biuro@ajprinters.pl. AJ Printers może wskazać dalszą procedurę, w tym obsługę przez dostawcę, gwaranta albo autoryzowany serwis.
+4. Reklamację produktu THI zakupionego w aj printers należy zgłosić na adres biuro@ajprinters.pl. aj printers może wskazać dalszą procedurę, w tym obsługę przez dostawcę, gwaranta albo autoryzowany serwis.
 5. Jeżeli zostanie nadany numer RMA albo inny numer reklamacyjny, należy umieścić go w widocznym miejscu na kartonie zbiorczym zawierającym reklamowany Produkt. Brak wymaganego numeru może wstrzymać rozpatrywanie sprawy do czasu uzupełnienia dokumentacji.
-6. Reklamowany Produkt powinien być dostarczony w opakowaniu fabrycznym albo zastępczym zapewniającym ochronę w transporcie. W przypadku obsługi bezpośrednio przez THI AJ Printers może wskazać adres: THI Sp. z o.o. Sp.k., ul. Nowe Sady 2, 94-102 Łódź.
+6. Reklamowany Produkt powinien być dostarczony w opakowaniu fabrycznym albo zastępczym zapewniającym ochronę w transporcie. W przypadku obsługi bezpośrednio przez THI aj printers może wskazać adres: THI Sp. z o.o. Sp.k., ul. Nowe Sady 2, 94-102 Łódź.
 7. Gwarancji produktów THI mogą nie podlegać produkty zużyte, uszkodzone mechanicznie, z naruszonymi plombami, przechowywane w nieprawidłowych warunkach, uszkodzone wskutek czynników zewnętrznych albo noszące ślady ingerencji.
-8. Jeżeli Klient twierdzi, że użycie produktu THI spowodowało uszkodzenie urządzenia drukującego, powinien niezwłocznie zgłosić sprawę do AJ Printers, przekazując opis okoliczności, zdjęcia wady, model i numer seryjny urządzenia, model użytego produktu, numer Zamówienia lub faktury oraz dostępne wydruki testowe albo raporty z urządzenia.
+8. Jeżeli Klient twierdzi, że użycie produktu THI spowodowało uszkodzenie urządzenia drukującego, powinien niezwłocznie zgłosić sprawę do aj printers, przekazując opis okoliczności, zdjęcia wady, model i numer seryjny urządzenia, model użytego produktu, numer Zamówienia lub faktury oraz dostępne wydruki testowe albo raporty z urządzenia.
 9. Szczegółowe zasady zgłoszenia uszkodzonego sprzętu, terminy, sposób weryfikacji oraz zasady zwrotów produktów THI zawiera dokument wskazany w ust. 2.
 
 § 9. Sposób rozpatrzenia reklamacji

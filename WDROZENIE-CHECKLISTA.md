@@ -1,8 +1,8 @@
-# Wdrozenie dokumentow AJ Printers
+# Wdrozenie dokumentow aj printers
 
 ## Cel
 
-Uzupelnic strone AJ Printers o dokumenty regulaminowe, reklamacyjne, zwrotowe, RODO oraz komunikaty informacyjne na stronie glownej, kartach produktu i w koszyku.
+Uzupelnic strone aj printers o dokumenty regulaminowe, reklamacyjne, zwrotowe, RODO oraz komunikaty informacyjne na stronie glownej, kartach produktu i w koszyku.
 
 ## Struktura publiczna plikow
 
@@ -57,7 +57,7 @@ Naglowek:
 `Formularze i protokoly do pobrania`
 
 Linki:
-- Formularz reklamacyjny AJ Printers: `/pliki/dokumenty/formularz-reklamacyjny-aj-printers.pdf`
+- Formularz reklamacyjny aj printers: `/pliki/dokumenty/formularz-reklamacyjny-aj-printers.pdf`
 - Protokol szkody DHL: `/pliki/protokoly-szkody/protokol-szkody-dhl.pdf`
 - Protokol szkody DPD: `/pliki/protokoly-szkody/protokol-szkody-dpd.pdf`
 - Protokol szkody FedEx: `/pliki/protokoly-szkody/protokol-szkody-fedex.pdf`
@@ -84,7 +84,7 @@ Naglowek:
 `Wazne informacje przed zakupem`
 
 Tresc:
-`Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie AJ Printers byly aktualne i prawidlowe. Zdjecia maja charakter pogladowy, a wyglad opakowania moze roznic sie od prezentowanego na stronie.`
+`Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie aj printers byly aktualne i prawidlowe. Zdjecia maja charakter pogladowy, a wyglad opakowania moze roznic sie od prezentowanego na stronie.`
 
 `Podstawowa jednostka sprzedazy jest 1 sztuka produktu, chyba ze nazwa, opis lub parametry wyraznie wskazuja inaczej, np. opakowanie, zestaw, karton, paczke lub wielopak.`
 
