@@ -1,5 +1,16 @@
 # Komunikaty CMS aj printers
 
+## Gotowe pliki do CMS
+
+Najbezpieczniej wklejac wersje HTML z encjami z folderu `cms-html`, bo nie zalezy od kodowania edytora CMS:
+
+- `cms-html/komunikat-strona-glowna.html`
+- `cms-html/komunikat-produkt.html`
+- `cms-html/komunikat-materialy-eksploatacyjne.html`
+- `cms-html/komunikat-koszyk-dostawa.html`
+- `cms-html/komunikaty-cms.html` - caly zestaw razem z przykladowym CSS
+- `cms-html/komunikaty-cms.css` - sam CSS, jezeli motyw sklepu ma osobne miejsce na style
+
 ## Zasady stylistyczne
 
 - Komunikaty maja byc neutralne i przyjazne.
@@ -142,4 +153,3 @@ Kod orientacyjny. Nalezy dopasowac do stylow motywu sklepu.
 - Komunikat w koszyku nie utrudnia przejscia do platnosci.
 - Nazwa firmy wystepuje jako `aj printers`.
 - Kontakt sklepu prowadzi na `sklep@ajprinters.pl`, jezeli komunikat zawiera dane kontaktowe.
-
