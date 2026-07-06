@@ -1,0 +1,50 @@
+Obowiązek informacyjny AJ Printers (klauzula informacyjna)
+Data obowiązywania: [data publikacji]
+
+Działając zgodnie z art. 13 ust. 1 i 2 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE, dalej: RODO, informujemy, że:
+
+§ 1. Administrator danych osobowych
+1. Administratorem Pani/Pana danych osobowych jest AJ Printers Anna Jaros-Kucińska z siedzibą w Ziewanicach 11, 95-015 Głowno, NIP: 7331289363.
+2. Kontakt z Administratorem możliwy jest za pośrednictwem adresu e-mail: biuro@ajprinters.pl albo pisemnie na adres siedziby Administratora.
+3. Administrator nie wyznaczył Inspektora Ochrony Danych, ponieważ nie istnieje taki obowiązek wynikający z obowiązujących przepisów prawa.
+
+§ 2. Cele i podstawy prawne przetwarzania danych
+Pani/Pana dane osobowe mogą być przetwarzane w następujących celach:
+- realizacji złożonego zamówienia, zawarcia i wykonania umowy sprzedaży, obsługi płatności, dostawy oraz kontaktu w sprawie zamówienia - na podstawie art. 6 ust. 1 lit. b RODO;
+- realizacji obowiązków prawnych ciążących na Administratorze, w szczególności obowiązków podatkowych, rachunkowych i archiwizacyjnych - na podstawie art. 6 ust. 1 lit. c RODO;
+- obsługi reklamacji, zwrotów, dochodzenia lub obrony przed roszczeniami oraz zapewnienia bezpieczeństwa sklepu internetowego - na podstawie art. 6 ust. 1 lit. f RODO;
+- prowadzenia marketingu własnego Administratora, w zakresie dopuszczalnym przez przepisy prawa - na podstawie art. 6 ust. 1 lit. f RODO;
+- przesyłania informacji handlowych drogą elektroniczną, jeżeli wyrażono odrębną zgodę - na podstawie art. 6 ust. 1 lit. a RODO;
+- realizacji usługi Newsletter, jeżeli wyrażono zgodę na subskrypcję - na podstawie art. 6 ust. 1 lit. a RODO;
+- prowadzenia zautomatyzowanego procesu przetwarzania danych osobowych, w tym profilowania dla celów marketingowych lub analitycznych, wyłącznie jeżeli funkcjonalność taka jest wykorzystywana i została udzielona wymagana zgoda - na podstawie art. 6 ust. 1 lit. a RODO.
+
+§ 3. Kategorie odbiorców danych
+Pani/Pana dane osobowe mogą być udostępniane:
+- podmiotom zewnętrznym świadczącym usługi związane z bieżącą działalnością Administratora;
+- podmiotom zewnętrznym dostarczającym i wspierającym systemy teleinformatyczne Administratora, w tym usługi hostingowe, pocztę elektroniczną, narzędzia bezpieczeństwa oraz rozwiązania służące obsłudze witryny ajprinters.pl;
+- dostawcom płatności online oraz operatorom płatności obsługującym transakcje w sklepie;
+- przewoźnikom i podmiotom świadczącym usługi dostawy;
+- podmiotom współpracującym w zakresie realizacji usługi Newsletter, komunikacji e-mail lub SMS;
+- podmiotom świadczącym usługi księgowe, prawne, doradcze lub windykacyjne;
+- innym podmiotom uprawnionym do uzyskania danych na podstawie przepisów obowiązującego prawa.
+
+§ 4. Powierzenie przetwarzania i zabezpieczenia
+Dane mogą być przekazywane podmiotom przetwarzającym dane osobowe na zlecenie Administratora na podstawie stosownych umów powierzenia przetwarzania danych osobowych oraz przy zapewnieniu stosowania przez te podmioty odpowiednich środków technicznych i organizacyjnych służących ochronie danych.
+
+§ 5. Okres przetwarzania danych
+1. Dane osobowe będą przetwarzane przez okres realizacji wskazanych powyżej celów, z systematyczną kontrolą ich dalszej przydatności.
+2. Dane przetwarzane w celu realizacji zamówienia będą przechowywane przez czas wykonania umowy, a następnie przez okres wymagany przepisami prawa lub okres niezbędny do zabezpieczenia, dochodzenia albo obrony ewentualnych roszczeń.
+3. Dane przetwarzane na podstawie zgody będą przetwarzane do momentu jej cofnięcia, a następnie przez okres niezbędny do wykazania prawidłowości przetwarzania lub zabezpieczenia ewentualnych roszczeń.
+4. Dane przetwarzane w celach marketingowych na podstawie prawnie uzasadnionego interesu będą przetwarzane do czasu wniesienia skutecznego sprzeciwu.
+
+§ 6. Prawa osoby, której dane dotyczą
+Przysługuje Pani/Panu prawo dostępu do treści swoich danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, prawo do przenoszenia danych, prawo wniesienia sprzeciwu wobec przetwarzania oraz prawo do cofnięcia zgody w dowolnym momencie, jeżeli dane są przetwarzane na podstawie zgody. Cofnięcie zgody nie wpływa na zgodność z prawem przetwarzania dokonanego przed jej cofnięciem.
+
+§ 7. Skarga do organu nadzorczego
+Przysługuje Pani/Panu prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, jeżeli uzna Pani/Pan, że przetwarzanie danych osobowych narusza przepisy RODO.
+
+§ 8. Dobrowolność podania danych
+Podanie danych jest dobrowolne, jednak może być niezbędne do zawarcia i wykonania umowy, realizacji zamówienia, obsługi zgłoszenia, reklamacji, zwrotu, płatności lub dostawy. Niepodanie danych niezbędnych do realizacji danego celu może uniemożliwić jego wykonanie.
+
+§ 9. Informacje uzupełniające
+Szczegółowe zasady przetwarzania danych osobowych, wykorzystywania plików cookies oraz zarządzania zgodami opisuje Polityka prywatności AJ Printers: polityka-prywatnosci-aj-printers.pdf. Zasady korzystania ze sklepu określa Regulamin AJ Printers: regulamin-aj-printers.pdf.

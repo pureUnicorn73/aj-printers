@@ -1,0 +1,46 @@
+Regulamin zwrotów AJ Printers
+Data obowiązywania: [data publikacji]
+
+§ 1. Postanowienia ogólne
+1. Regulamin zwrotów określa zasady zwrotów innych niż ustawowe odstąpienie od umowy oraz innych niż reklamacja z tytułu niezgodności towaru z umową.
+2. Regulamin zwrotów nie ogranicza praw Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z przepisów prawa, w szczególności prawa odstąpienia od umowy, reklamacji oraz roszczeń z tytułu niezgodności towaru z umową.
+3. W sprawach nieuregulowanych stosuje się Regulamin sklepu AJ Printers i obowiązujące przepisy prawa.
+
+§ 2. Zwrot z powodu nadwyżki ilościowej lub niezgodności asortymentowej
+1. Zwrot jest dopuszczalny, gdy Klient otrzymał Produkt w liczbie większej niż wynikająca z Zamówienia albo Produkt inny niż zamówiony.
+2. Klient powinien sprawdzić zgodność dostawy z Zamówieniem niezwłocznie po odbiorze.
+3. Niezgodność ilościową lub asortymentową należy zgłosić Sprzedawcy niezwłocznie, nie później niż w terminie 48 godzin od odbioru przesyłki, o ile charakter sprawy pozwala na jej wykrycie przy zwykłej weryfikacji dostawy.
+4. Zgłoszenie należy przesłać na adres biuro@ajprinters.pl i wskazać: numer Zamówienia, opis niezgodności, zdjęcia Produktu i opakowania oraz dane kontaktowe.
+5. Jeżeli zwrot wynika z pomyłki Sprzedawcy, koszty uzgodnionego zwrotu ponosi Sprzedawca.
+
+§ 3. Zwrot dobrowolny za zgodą Sprzedawcy
+1. Zwrot Produktu z przyczyn innych niż wskazane w § 2 jest możliwy wyłącznie po uprzedniej zgodzie Sprzedawcy i na warunkach każdorazowo uzgodnionych z Klientem.
+2. Sprzedawca może odmówić przyjęcia zwrotu, w szczególności gdy Produkt był wykonany na indywidualne zamówienie, jest personalizowany, używany, uszkodzony, niekompletny, ma uszkodzone opakowanie jednostkowe albo zwrot byłby niemożliwy z przyczyn organizacyjnych lub prawnych.
+3. Zwrot dobrowolny odbywa się na koszt i ryzyko Klienta, chyba że strony uzgodniły inaczej.
+
+§ 4. Zgłoszenie zwrotu
+1. Zgłoszenie zwrotu należy wysłać na adres biuro@ajprinters.pl.
+2. Zgłoszenie powinno zawierać: numer Zamówienia, nazwę Produktu, ilość, przyczynę zwrotu, zdjęcia Produktu i opakowania oraz dane Klienta.
+3. Samo wysłanie zgłoszenia nie oznacza akceptacji zwrotu przez Sprzedawcę.
+4. Zwrot można wysłać dopiero po otrzymaniu od Sprzedawcy potwierdzenia przyjęcia zgłoszenia i instrukcji wysyłki.
+
+§ 5. Warunki przyjęcia zwrotu
+1. Zwracany Produkt powinien być kompletny, nieużywany, nieuszkodzony, czysty, zabezpieczony do transportu i - jeżeli dotyczy - w oryginalnym, nienaruszonym opakowaniu.
+2. Paczka powinna zawierać numer zgłoszenia lub numer Zamówienia oraz dane Klienta umożliwiające identyfikację zwrotu.
+3. Zwroty wysłane bez wcześniejszej akceptacji Sprzedawcy mogą nie zostać przyjęte.
+4. Jeżeli Produkt nie spełnia warunków przyjęcia zwrotu, Sprzedawca może odmówić jego przyjęcia albo odesłać Produkt na koszt Klienta.
+
+§ 6. Rozliczenie zwrotu
+1. Zwrot rozliczany jest według ceny faktycznie zapłaconej za Produkt.
+2. Jeżeli zwrot jest zasadny i zaakceptowany, Sprzedawca dokona odpowiedniego zwrotu płatności albo korekty dokumentu sprzedaży, jeżeli ma to zastosowanie.
+3. Koszt pierwotnej dostawy nie podlega zwrotowi przy zwrocie dobrowolnym, chyba że strony uzgodniły inaczej albo obowiązek taki wynika z przepisów prawa.
+
+
+
+§ 7. Zwroty produktów THI
+1. W przypadku produktów pochodzących z oferty dostawcy THI Sp. z o.o. Sp.k. zastosowanie mają również warunki opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez AJ Printers (warunki-gwarancji-produktow-thi-aj-printers.pdf), o ile dotyczą danego Produktu i nie są sprzeczne z bezwzględnie obowiązującymi przepisami prawa.
+2. Produkty THI podlegają zwrotowi w przypadku pomyłki po stronie AJ Printers, dostawcy albo podmiotu realizującego zamówienie.
+3. Zwroty produktów THI z innych przyczyn możliwe są wyłącznie po wcześniejszej zgodzie Sprzedawcy i na warunkach każdorazowo uzgodnionych z Klientem.
+4. Zwracany Produkt THI powinien być nieużywany, zapakowany w fabryczne opakowanie, bez dodatkowych naklejek i opisów nienależących do producenta, dostawcy lub AJ Printers. Opakowanie i Produkt nie mogą być uszkodzone.
+5. Zwrotowi co do zasady nie podlegają produkty dostarczone na specjalne zamówienie oraz produkty oryginalne OEM, chyba że obowiązujące przepisy prawa stanowią inaczej albo Sprzedawca wyrazi zgodę na zwrot.
+6. Przy zwrocie dobrowolnym produktu THI po upływie 14 dni roboczych od dnia wystawienia faktury Sprzedawca może uzgodnić z Klientem opłatę administracyjną w wysokości 10% wartości netto zwracanego Produktu, nie mniej niż 30 zł, o ile jest to dopuszczalne w danej relacji z Klientem.

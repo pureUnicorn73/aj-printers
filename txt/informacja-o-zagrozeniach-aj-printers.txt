@@ -1,0 +1,42 @@
+Informacja o szczególnych zagrożeniach związanych z korzystaniem z usługi świadczonej drogą elektroniczną
+Data obowiązywania: [data publikacji]
+
+Usługodawca: AJ Printers Anna Jaros-Kucińska, Ziewanice 11, 95-015 Głowno, NIP: 7331289363
+Usługa: sklep internetowy ajprinters.pl oraz usługi świadczone drogą elektroniczną
+Kontakt bezpieczeństwa: biuro@ajprinters.pl
+Wersja dokumentu: 1.0
+Podstawa prawna: art. 6 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną
+
+§ 1. Cel informacji
+Niniejsza informacja jest udostępniana, aby zapewnić użytkownikom aktualną informację o szczególnych zagrożeniach związanych z korzystaniem z usług świadczonych drogą elektroniczną.
+
+§ 2. Szczególne zagrożenia
+Korzystanie z usług online wiąże się w szczególności z następującymi zagrożeniami:
+1. złośliwe oprogramowanie, w tym wirusy, trojany, spyware, adware i ransomware;
+2. phishing i inne formy inżynierii społecznej, polegające na wyłudzaniu danych logowania, danych płatniczych lub nakłanianiu do kliknięcia w link albo instalacji aplikacji;
+3. podszywanie się pod sklep, pracownika sklepu, operatora płatności, przewoźnika albo użytkownika;
+4. fałszywe wiadomości e-mail, SMS, komunikaty w mediach społecznościowych lub fałszywe strony logowania;
+5. przechwycenie komunikacji lub danych sesji, szczególnie podczas korzystania z publicznych sieci Wi-Fi;
+6. nieuprawniony dostęp do konta z powodu słabego hasła, używania tego samego hasła w wielu serwisach, wycieku danych z innego serwisu albo pozostawienia urządzenia bez blokady;
+7. przejęcie kanału uwierzytelniania, np. poczty e-mail lub numeru telefonu;
+8. wykorzystanie luk w systemie operacyjnym, przeglądarce, wtyczkach, aplikacjach lub urządzeniu użytkownika;
+9. manipulacja danymi transakcji, np. podmiana numeru rachunku bankowego albo danych płatności;
+10. utrata poufności danych wskutek błędu użytkownika, np. przesłania danych niewłaściwemu odbiorcy;
+11. zakłócenia dostępności usługi, np. awarie sieci, przeciążenia, ataki DDoS albo przerwy techniczne;
+12. ryzyko działania niepożądanych rozszerzeń przeglądarki lub aplikacji z niepewnych źródeł.
+
+§ 3. Zalecenia bezpieczeństwa
+W celu ograniczenia ryzyk zaleca się:
+1. korzystanie z aktualnego systemu operacyjnego, przeglądarki i oprogramowania ochronnego;
+2. stosowanie silnych i unikalnych haseł oraz, jeżeli jest dostępne, uwierzytelniania wieloskładnikowego;
+3. niewchodzenie w linki i nieotwieranie załączników z niepewnych źródeł;
+4. weryfikowanie adresu domeny ajprinters.pl i certyfikatu HTTPS przed logowaniem lub płatnością;
+5. zachowanie ostrożności wobec próśb o podanie hasła, kodów SMS, danych karty płatniczej lub wykonanie pilnego przelewu;
+6. unikanie logowania do konta i płatności w publicznych sieciach Wi-Fi bez dodatkowej ochrony;
+7. wylogowanie się po zakończeniu korzystania ze Sklepu i blokowanie urządzenia;
+8. instalowanie aplikacji i rozszerzeń wyłącznie z zaufanych źródeł;
+9. regularne monitorowanie aktywności na koncie oraz korespondencji dotyczącej zamówień;
+10. niewysyłanie w wiadomościach e-mail haseł, pełnych danych kart płatniczych ani innych danych, które nie są konieczne do obsługi sprawy.
+
+§ 4. Zgłaszanie incydentów
+W przypadku podejrzenia nieuprawnionego dostępu do konta, próby phishingu, fałszywej wiadomości podszywającej się pod AJ Printers, wycieku danych lub innego incydentu należy niezwłocznie skontaktować się z AJ Printers pod adresem biuro@ajprinters.pl. Zaleca się również natychmiastową zmianę hasła do konta i poczty e-mail używanej do obsługi zamówień.

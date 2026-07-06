@@ -1,0 +1,85 @@
+Warunki gwarancji produktów THI sprzedawanych przez AJ Printers
+Data obowiązywania: [data publikacji]
+
+§ 1. Informacje ogólne
+1. Niniejszy dokument określa informacyjne zasady gwarancji dla produktów pochodzących z oferty dostawcy THI Sp. z o.o. Sp.k., które mogą być sprzedawane przez AJ Printers Anna Jaros-Kucińska w sklepie ajprinters.pl.
+2. Gwarancja opisana w niniejszym dokumencie jest gwarancją producenta, importera, dystrybutora lub dostawcy danego Produktu, w zależności od informacji przekazanej przy Produkcie albo w dokumentacji gwarancyjnej.
+3. Niniejszy dokument nie ogranicza ustawowych praw Konsumenta ani Przedsiębiorcy na prawach konsumenta przysługujących wobec AJ Printers z tytułu braku zgodności towaru z umową.
+4. W przypadku rozbieżności pomiędzy niniejszym dokumentem a indywidualną kartą gwarancyjną, opisem Produktu lub informacją producenta/dostawcy, pierwszeństwo mają warunki właściwe dla danego Produktu, o ile nie naruszają bezwzględnie obowiązujących przepisów prawa.
+
+§ 2. Okresy gwarancji dla produktów THI
+1. Tonery i moduły bębna marki JetWorld i CartridgeWeb zakupione po 01.01.2018 r. objęte są dożywotnią gwarancją.
+2. Tusze marki JetWorld i WOX zakupione po 01.01.2018 r. objęte są dożywotnią gwarancją.
+3. Etykiety, folie i taśmy marki JetWorld zakupione po 01.01.2018 r. objęte są dożywotnią gwarancją.
+4. Produkty marki Oxe objęte są 24-miesięczną gwarancją.
+5. Produkty marki Aeropack objęte są 24-miesięczną gwarancją.
+6. Produkty marki Assima objęte są 12-miesięczną gwarancją.
+7. Produkty bez marki własnej (BLK) objęte są 12-miesięczną gwarancją.
+8. Produkty oryginalne OEM objęte są 6-miesięczną gwarancją, chyba że producent danego Produktu przewidział inne warunki.
+9. Pozostałe produkty z oferty THI objęte są gwarancją 6-miesięczną, chyba że przy Produkcie lub w dokumencie gwarancyjnym wskazano inaczej.
+
+§ 3. Rękojmia i ustawowe prawa Klienta
+1. W przypadku sprzedaży na rzecz Klientów niebędących Konsumentami ani Przedsiębiorcami na prawach konsumenta odpowiedzialność z tytułu rękojmi może zostać wyłączona albo ograniczona w zakresie dopuszczalnym przez art. 558 Kodeksu cywilnego, jeżeli wynika to z Regulaminu, umowy lub indywidualnych uzgodnień.
+2. W przypadku Konsumentów i Przedsiębiorców na prawach konsumenta gwarancja nie wyłącza, nie ogranicza ani nie zawiesza uprawnień wynikających z przepisów o braku zgodności towaru z umową.
+3. Stosowanie materiałów eksploatacyjnych dostarczanych przez THI nie wyłącza odpowiedzialności producentów urządzeń drukujących za wady urządzeń w zakresie wynikającym z przepisów prawa i warunków gwarancji producenta urządzenia.
+4. Gwarancja obowiązuje przy zachowaniu prawidłowych warunków użytkowania zgodnych z instrukcją obsługi urządzenia oraz właściwych warunków przechowywania Produktu.
+5. W przypadku wady, o której sprzedający i kupujący nie wiedzieli w chwili zakupu, możliwa jest wymiana wadliwego Produktu, naprawa, korekta dokumentu sprzedaży albo inne rozstrzygnięcie właściwe dla danego przypadku.
+
+§ 4. Złożenie reklamacji gwarancyjnej produktu THI
+1. Reklamację produktu THI zakupionego w AJ Printers należy zgłosić do AJ Printers na adres biuro@ajprinters.pl, chyba że AJ Printers wskaże Klientowi bezpośrednią procedurę dostawcy, producenta lub serwisu.
+2. Zgłoszenie powinno zawierać co najmniej: dane Klienta, numer Zamówienia lub faktury, nazwę i model Produktu, opis wady, zdjęcia Produktu i opakowania, zdjęcia etykiet oraz - jeżeli dotyczy - wydruki testowe, raport stanu materiałów eksploatacyjnych lub zdjęcie komunikatu z urządzenia.
+3. Jeżeli w toku obsługi zgłoszenia zostanie nadany numer RMA albo inny numer reklamacyjny, numer ten należy umieścić w widocznym miejscu na kartonie zbiorczym zawierającym reklamowany Produkt.
+4. Brak numeru reklamacyjnego, jeżeli został wymagany, może skutkować wstrzymaniem rozpatrywania reklamacji do czasu uzupełnienia dokumentacji.
+5. Link do instrukcji składania reklamacji w systemie THI: [do uzupełnienia po przekazaniu właściwego adresu URL lub pliku].
+6. Link do instrukcji prawidłowego pakowania zwrotów/reklamacji: [do uzupełnienia po przekazaniu właściwego adresu URL lub pliku].
+
+§ 5. Wysyłka reklamowanego produktu
+1. Reklamowany Produkt należy wysłać zgodnie z instrukcją przekazaną przez AJ Printers w odpowiedzi na zgłoszenie. AJ Printers może wskazać wysyłkę do swojej siedziby, do dostawcy, do gwaranta albo do autoryzowanego serwisu.
+2. Jeżeli AJ Printers wskaże obsługę bezpośrednio przez THI, przesyłka może zostać skierowana na adres: THI Sp. z o.o. Sp.k., ul. Nowe Sady 2, 94-102 Łódź.
+3. Reklamowany Produkt Klient przesyła lub dostarcza na własny koszt, chyba że przepisy prawa, decyzja AJ Printers, decyzja gwaranta albo uznanie reklamacji przewidują inaczej.
+4. Produkt powinien być dostarczony w opakowaniu fabrycznym albo innym opakowaniu zastępczym, które zabezpiecza go przed uszkodzeniami mechanicznymi w transporcie.
+5. Produkty zasypane, rozlane lub niewłaściwie zabezpieczone na czas transportu mogą nie zostać przyjęte do reklamacji, jeżeli stan Produktu uniemożliwia ocenę zgłoszenia albo uszkodzenie powstało z przyczyn niezależnych od AJ Printers, THI lub gwaranta.
+
+§ 6. Wyłączenia i ograniczenia gwarancji THI
+1. Gwarancji mogą nie podlegać:
+   a) produkt zużyty, w szczególności toner lub wkład atramentowy, w którym wykorzystano co najmniej 70% środka barwiącego;
+   b) produkt uszkodzony mechanicznie przez użytkownika;
+   c) produkt z naruszonymi plombami gwarancyjnymi;
+   d) produkt przechowywany w nieprawidłowych warunkach;
+   e) produkt uszkodzony w wyniku działania niezależnych czynników zewnętrznych;
+   f) produkt noszący ślady ingerencji;
+   g) produkt używany niezgodnie z instrukcją urządzenia albo przeznaczeniem Produktu.
+2. Gwarancja może nie przysługiwać kupującemu, jeżeli w dniu zgłoszenia wady zalega z płatnością za okres powyżej 21 dni od daty płatności. Gwarancja może zostać przywrócona, jeżeli w terminie 7 dni od dnia zgłoszenia wady kupujący ureguluje przeterminowane zaległości. W takim przypadku termin rozpatrzenia reklamacji biegnie od dnia uregulowania przeterminowanych należności.
+3. Postanowienia ust. 2 stosuje się wyłącznie w zakresie dopuszczalnym przez bezwzględnie obowiązujące przepisy prawa.
+
+§ 7. Rozpatrzenie reklamacji produktu THI
+1. Termin rozpatrywania reklamacji gwarancyjnej wynosi do 14 dni roboczych od otrzymania kompletnego zgłoszenia i Produktu, chyba że charakter sprawy wymaga dłuższej weryfikacji albo przepisy przewidują inny termin.
+2. Jeżeli z przyczyn niezależnych od AJ Printers, THI lub gwaranta zachowanie terminu nie będzie możliwe, Klient zostanie poinformowany o wydłużeniu terminu i przyczynie opóźnienia.
+3. W przypadku pozytywnego rozpatrzenia reklamacji Produkt może zostać naprawiony, wymieniony na wolny od wad, rozliczony korektą faktury albo załatwiony w inny sposób właściwy dla danego przypadku.
+4. Pozytywnie rozpatrzone reklamacje gwarancyjne zostaną odesłane do Klienta na koszt gwaranta albo AJ Printers, zgodnie z ustalonym sposobem obsługi sprawy.
+
+§ 8. Zgłoszenie uszkodzonego sprzętu - produkty THI
+1. Jeżeli Klient twierdzi, że uszkodzenie urządzenia drukującego powstało bezpośrednio wskutek użycia Produktu THI zakupionego w AJ Printers, powinien niezwłocznie zgłosić sprawę do AJ Printers na adres biuro@ajprinters.pl. AJ Printers może następnie wskazać kontakt z działem wsparcia technicznego dostawcy albo gwaranta.
+2. Warunkiem przyjęcia zgłoszenia jest posiadanie Produktu, który był używany podczas awarii, oraz przekazanie informacji pozwalających zweryfikować związek przyczynowy pomiędzy Produktem a uszkodzeniem urządzenia.
+3. W zgłoszeniu należy przesłać opis okoliczności, zdjęcia pokazujące wadę, model i numer seryjny urządzenia, model użytego Produktu, numer Zamówienia lub faktury oraz - jeżeli to możliwe - wydruki testowe albo raport z urządzenia.
+4. Uszkodzone urządzenie należy przygotować do transportu zgodnie z wymaganiami producenta urządzenia i firmy kurierskiej, w szczególności używając odpowiedniego kartonu, styropianu, folii bąbelkowej albo innego wypełnienia pustych przestrzeni.
+5. Odbiór sprzętu przez kuriera następuje wyłącznie po wcześniejszym uzgodnieniu z AJ Printers, dostawcą albo gwarantem.
+6. Naprawa uszkodzonego sprzętu realizowana jest w terminie do 21 dni roboczych, chyba że charakter naprawy, dostępność części albo weryfikacja serwisowa wymagają dłuższego terminu.
+7. Naprawiony sprzęt wraz z wkładem drukującym jest odsyłany do Klienta za pośrednictwem wybranej spedycji.
+8. AJ Printers, THI lub gwarant nie ponoszą odpowiedzialności za uszkodzenia, które nie zostały spowodowane użyciem produktu THI. W przypadku stwierdzenia, że przyczyną wady nie był produkt THI, sprzęt może zostać odesłany do Klienta wraz z opinią uzasadniającą odrzucenie reklamacji.
+9. Jeżeli uszkodzenie urządzenia zostało spowodowane bezpośrednio przez produkt THI i reklamacja zostanie uznana, gwarant zapewni naprawę albo - jeżeli naprawa nie będzie możliwa - wymianę urządzenia na własny koszt, zgodnie z warunkami gwarancji.
+
+§ 9. Zwroty produktów THI
+1. Produkty THI podlegają zwrotowi w przypadku pomyłki po stronie AJ Printers, dostawcy albo podmiotu realizującego zamówienie.
+2. Zwroty z innych przyczyn możliwe są wyłącznie po wcześniejszej zgodzie AJ Printers i na warunkach wskazanych w Regulaminie zwrotów AJ Printers.
+3. Zwrot z przyczyn innych niż pomyłka Sprzedawcy powinien być wcześniej uzgodniony z AJ Printers drogą mailową lub pisemną.
+4. Zwracany Produkt powinien być nieużywany, zapakowany w fabryczne opakowanie, bez naklejek i opisów nienależących do producenta, dostawcy lub AJ Printers. Opakowanie i Produkt nie mogą być uszkodzone.
+5. Koszty zwrotu dobrowolnego, w szczególności koszty transportu i zabezpieczenia Produktu, ponosi Klient, chyba że strony uzgodniły inaczej.
+6. Przy zwrocie dobrowolnym dokonywanym po upływie 14 dni roboczych od dnia wystawienia faktury AJ Printers może uzgodnić z Klientem opłatę administracyjną w wysokości 10% wartości netto zwracanego Produktu, nie mniej niż 30 zł, o ile jest to dopuszczalne w danej relacji z Klientem.
+7. Zwrotowi co do zasady nie podlegają produkty dostarczone na specjalne zamówienie oraz produkty oryginalne OEM, chyba że obowiązujące przepisy prawa stanowią inaczej albo AJ Printers wyrazi zgodę na zwrot.
+8. AJ Printers może odmówić przyjęcia zwrotu, jeżeli okres od zakupu do zwrotu jest na tyle długi, że mógł istotnie wpłynąć na zmianę właściwości lub obniżenie jakości Produktu.
+9. Postanowienia niniejszego paragrafu nie ograniczają prawa Konsumenta ani Przedsiębiorcy na prawach konsumenta do odstąpienia od umowy zawartej na odległość, jeżeli takie prawo przysługuje na podstawie przepisów prawa.
+
+§ 10. Załączniki i instrukcje
+1. Instrukcja prawidłowego pakowania zwrotów/reklamacji - do podlinkowania po przekazaniu pliku lub adresu URL.
+2. Instrukcja składania reklamacji w serwisie b2b.thi.pl - do podlinkowania po przekazaniu pliku lub adresu URL.
