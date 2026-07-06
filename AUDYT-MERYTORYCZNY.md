@@ -41,8 +41,8 @@ Wystepuja:
 Ryzyko:
 terminy sa dopuszczalne jako organizacyjne/rekomendacyjne, ale nie powinny ograniczac ustawowych praw Konsumenta ani Przedsiebiorcy na prawach konsumenta.
 
-Rekomendacja:
-doprecyzowac w regulaminie zwrotow, ze uchybienie terminowi 48 godzin nie ogranicza ustawowych praw Konsumenta ani Przedsiebiorcy na prawach konsumenta, lecz moze utrudnic wyjasnienie sprawy.
+Status:
+doprecyzowano, ze termin 48 godzin ma charakter organizacyjny/rekomendacyjny i nie ogranicza ustawowego prawa odstapienia od umowy ani uprawnien z tytulu niezgodnosci towaru z umowa.
 
 ### 4. Zwroty dobrowolne i oplata administracyjna
 
@@ -86,7 +86,7 @@ po zamknieciu tresci TXT wygenerowac albo podmienic finalne PDF-y.
 
 ## Rekomendowana kolejnosc nastepnych zmian
 
-1. Doprecyzowac termin 48 godzin w `txt/regulamin-zwrotow-aj-printers.txt`.
+1. Termin 48 godzin zostal doprecyzowany w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/reklamacje-aj-printers.txt`.
 2. Doprecyzowac oplate administracyjna przy zwrotach THI w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/warunki-gwarancji-produktow-thi-aj-printers.txt`.
 3. Doprecyzowac fragment o ewentualnej obsludze bezposrednio przez THI w `txt/reklamacje-aj-printers.txt`.
 4. Po zatwierdzeniu tresci przygotowac odswiezenie PDF.
