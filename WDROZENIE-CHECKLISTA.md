@@ -29,6 +29,13 @@ Decyzja URL: strona zwrotow ma dzialac pod adresem `https://ajprinters.pl/conten
 
 ## Pliki PDF do publikacji
 
+Gotowa paczka plikow publicznych znajduje sie w:
+- `wdrozenie/pliki/dokumenty/`
+- `wdrozenie/pliki/protokoly-szkody/`
+
+Gotowe archiwum do przekazania:
+- `wdrozenie-aj-printers-2026-07-06.zip`
+
 Do `/pliki/dokumenty/`:
 - `pdf/regulamin-aj-printers.pdf`
 - `pdf/polityka-prywatnosci-aj-printers.pdf`
