@@ -64,14 +64,8 @@ doprecyzowano, ze oplata dotyczy wylacznie dobrowolnego zwrotu uzgodnionego indy
 Stan:
 klient detaliczny zglasza reklamacje do aj printers, nie do systemu THI. Linki do systemu THI zostaly usuniete.
 
-Ocena:
-spojne z decyzja biznesowa.
-
-Do sprawdzenia:
-w `txt/reklamacje-aj-printers.txt` nadal jest sformulowanie, ze aj printers moze wskazac obsluge bezposrednio przez THI i adres THI. To jest dopuszczalne jako dalszy krok po kontakcie z aj printers, ale warto upewnic sie, ze nie brzmi jak obowiazek klienta do samodzielnego kontaktu z THI.
-
-Rekomendacja:
-zostawic, ale doprecyzowac, ze dzieje sie to dopiero po instrukcji aj printers.
+Status:
+doprecyzowano, ze reklamacje produktu THI zakupionego w aj printers klient zglasza w pierwszej kolejnosci do aj printers, a ewentualna obsluga przez THI albo wysylka na adres THI nastepuje dopiero po wskazaniu przez aj printers.
 
 ### 6. PDF-y
 
@@ -88,5 +82,4 @@ po zamknieciu tresci TXT wygenerowac albo podmienic finalne PDF-y.
 
 1. Termin 48 godzin zostal doprecyzowany w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/reklamacje-aj-printers.txt`.
 2. Oplata administracyjna przy zwrotach THI zostala doprecyzowana w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/warunki-gwarancji-produktow-thi-aj-printers.txt`.
-3. Doprecyzowac fragment o ewentualnej obsludze bezposrednio przez THI w `txt/reklamacje-aj-printers.txt`, jezeli taka sciezka ma byc publicznie opisana.
-4. Po zatwierdzeniu tresci odswiezyc PDF-y po zmianach w plikach TXT.
+3. Po zatwierdzeniu tresci odswiezyc PDF-y po zmianach w plikach TXT.
