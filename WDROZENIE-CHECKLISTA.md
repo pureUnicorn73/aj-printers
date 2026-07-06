@@ -20,12 +20,12 @@ Linki do PDF powinny otwierac sie w nowej karcie.
 | `/polityka-prywatnosci/` | `txt/polityka-prywatnosci-aj-printers.txt` | `/pliki/dokumenty/polityka-prywatnosci-aj-printers.pdf` |
 | `/obowiazek-informacyjny/` | `txt/obowiazek-informacyjny-aj-printers.txt` | `/pliki/dokumenty/obowiazek-informacyjny-aj-printers.pdf` |
 | `/reklamacje/` | `txt/reklamacje-aj-printers.txt` | `/pliki/dokumenty/reklamacje-aj-printers.pdf` |
-| `/zwroty/` | `txt/regulamin-zwrotow-aj-printers.txt` | `/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf` |
+| `https://ajprinters.pl/content/12-zwroty` | `txt/regulamin-zwrotow-aj-printers.txt` | `/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf` |
 | `/odstapienie-od-umowy/` | `txt/odstapienie-od-umowy-aj-printers.txt` | `/pliki/dokumenty/odstapienie-od-umowy-aj-printers.pdf` |
 | `/informacja-o-zagrozeniach/` | `txt/informacja-o-zagrozeniach-aj-printers.txt` | `/pliki/dokumenty/informacja-o-zagrozeniach-aj-printers.pdf` |
 | `/warunki-gwarancji-produktow-thi/` | `txt/warunki-gwarancji-produktow-thi-aj-printers.txt` | `/pliki/dokumenty/warunki-gwarancji-produktow-thi-aj-printers.pdf` |
 
-Decyzja URL: rekomendowany adres dla zwrotow to `/zwroty/`, bo jest krotszy i bardziej naturalny dla klienta. Alternatywa: `/regulamin-zwrotow/`.
+Decyzja URL: strona zwrotow ma dzialac pod adresem `https://ajprinters.pl/content/12-zwroty`.
 
 ## Pliki PDF do publikacji
 
@@ -125,10 +125,9 @@ Dodatkowa informacja:
 - Linki miedzy dokumentami nie prowadza do blednych sciezek.
 - Komunikaty na produkcie nie zaburzaja ukladu mobilnego.
 
-## Do decyzji
+## Decyzje wdrozeniowe
 
-- Czy dla zwrotow uzywamy `/zwroty/` czy `/regulamin-zwrotow/`.
-- Czy formularz reklamacyjny ma byc linkowany tylko na stronie `Reklamacje`, czy takze w tresci regulaminu/reklamacji.
-- Czy protokoly przewoznikow publikujemy wszystkie, czy tylko tych przewoznikow realnie dostepnych w sklepie.
-- Czy w komunikatach na stronie zachowujemy polskie znaki w CMS. Rekomendacja: tak.
-
+- Strona zwrotow: `https://ajprinters.pl/content/12-zwroty`.
+- Formularz reklamacyjny linkujemy na stronie `Reklamacje` w sekcji formularzy i protokolow do pobrania; jezeli CMS pozwala, dodajemy tez przycisk lub box w tresci procedury reklamacyjnej.
+- Publikujemy wszystkie protokoly przewoznikow dostepne w paczce: DHL, DPD, FedEx, GEODIS, GLS, InPost, Raben, UPS.
+- W tresciach publikowanych w CMS uzywamy polskich znakow.
