@@ -95,12 +95,15 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
    f) Epson - kontakt producenta: https://www.epson.pl/pl_PL/contactus;
    g) HP - wsparcie producenta: https://support.hp.com/pl-pl;
    h) Kyocera - wsparcie producenta: https://www.kyoceradocumentsolutions.pl/pl/support.html;
-   i) Logitech - FIXIT: https://fixit-service.com/clients/logitech/;
-   j) Logitech - pomoc producenta: https://support.logi.com/hc/pl/requests/new?ticket_form_id=360000621393;
-   k) OKI - wsparcie producenta: https://www.oki.com/pl/printing/support/;
-   l) Xerox - wsparcie producenta: https://www.xerox.com/pl-pl/biuro/wsparcie.
-6. Powyższe odnośniki mają charakter pomocniczy. Aktualna procedura gwarancyjna może zależeć od modelu Produktu, kraju dystrybucji, dokumentu gwarancyjnego, decyzji producenta albo autoryzowanego serwisu.
-7. Gwarancja nie wyłącza, nie ogranicza ani nie zawiesza uprawnień Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z przepisów o braku zgodności towaru z umową.
+   i) Lexmark - wsparcie producenta: https://www.lexmark.com/pl_pl/support.html;
+   j) Logitech - FIXIT: https://fixit-service.com/clients/logitech/;
+   k) Logitech - pomoc producenta: https://support.logi.com/hc/pl/requests/new?ticket_form_id=360000621393;
+   l) OKI - wsparcie producenta: https://www.oki.com/pl/printing/support/;
+   m) Xerox - wsparcie producenta: https://www.xerox.com/pl-pl/biuro/wsparcie.
+6. Dla produktów marek Eleven, Minolta/Konica-Minolta, Ricoh, Samsung, Sharp, Toshiba, Verbatim oraz pozostałych marek, których warunki nie zostały wskazane powyżej, zastosowanie mają warunki producenta, dostawcy, dystrybutora, dokumentu gwarancyjnego albo opis Produktu. Klient może zgłosić sprawę do aj printers, a aj printers przekaże informacje o dalszym sposobie postępowania w zakresie posiadanych danych.
+7. Gwarancje dotyczące produktów pochodzących z oferty Action zostaną uzupełnione po potwierdzeniu właściwych warunków, procedur i odnośników.
+8. Powyższe odnośniki mają charakter pomocniczy. Aktualna procedura gwarancyjna może zależeć od modelu Produktu, kraju dystrybucji, dokumentu gwarancyjnego, decyzji producenta albo autoryzowanego serwisu.
+9. Gwarancja nie wyłącza, nie ogranicza ani nie zawiesza uprawnień Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z przepisów o braku zgodności towaru z umową.
 
 § 10. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
 1. aj printers sprzedaje również produkty pochodzące z oferty dostawcy THI Sp. z o.o. Sp.k., w tym produkty marek JetWorld, CartridgeWeb, WOX, Oxe, Aeropack, Assima oraz produkty bez marki własnej (BLK), o ile są dostępne w ofercie Sklepu.
