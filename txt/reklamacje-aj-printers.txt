@@ -81,7 +81,28 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 5. aj printers może odmówić uznania roszczenia dotyczącego uszkodzenia urządzenia, jeżeli z dokumentacji lub okoliczności sprawy wynika, że uszkodzenie nie pozostaje w związku z produktem zakupionym w aj printers, powstało wskutek nieprawidłowego użytkowania, nieprawidłowego montażu, użycia niezgodnego z instrukcją, działania czynników zewnętrznych, zużycia eksploatacyjnego, wcześniejszej wady urządzenia albo ingerencji osób trzecich.
 6. Powyższe zasady nie ograniczają praw Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z powszechnie obowiązujących przepisów prawa.
 
-§ 9. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
+§ 9. Gwarancje producentów i serwisy zewnętrzne
+1. Niektóre Produkty dostępne w sklepie aj printers mogą być objęte gwarancją producenta, importera, dystrybutora, dostawcy albo innego gwaranta.
+2. Warunki gwarancji, w szczególności jej okres, zakres, wyłączenia oraz sposób realizacji, wynikają z dokumentu gwarancyjnego, opisu Produktu, informacji przekazanej przez gwaranta albo dokumentacji dołączonej do Produktu.
+3. W przypadku produktów oryginalnych OEM okres gwarancji wynika z warunków producenta, dokumentu gwarancyjnego, opisu Produktu albo informacji przekazanej przez dostawcę. Jeżeli przy Produkcie lub w dokumencie gwarancyjnym wskazano inny okres, zastosowanie ma okres wskazany dla danego Produktu.
+4. Jeżeli Produkt jest objęty gwarancją producenta lub innego gwaranta, Klient może zostać poproszony o skorzystanie z procedury wskazanej przez gwaranta, autoryzowany serwis albo producenta. aj printers udzieli Klientowi informacji o dalszym sposobie postępowania w zakresie posiadanych danych.
+5. Pomocnicze odnośniki do wybranych serwisów producentów:
+   a) Brother - wsparcie producenta: https://support.brother.com/;
+   b) Brother - BLASC: https://blasc.pl/zglos-naprawe/;
+   c) Brother - CSS: https://css.pl/zgloszenie-serwisowe/;
+   d) Canon - wsparcie producenta: https://www.canon.pl/support/;
+   e) Canon - Fis-Komp: https://fiskomp.pl/serwis;
+   f) Epson - kontakt producenta: https://www.epson.pl/pl_PL/contactus;
+   g) HP - wsparcie producenta: https://support.hp.com/pl-pl;
+   h) Kyocera - wsparcie producenta: https://www.kyoceradocumentsolutions.pl/pl/support.html;
+   i) Logitech - FIXIT: https://fixit-service.com/clients/logitech/;
+   j) Logitech - pomoc producenta: https://support.logi.com/hc/pl/requests/new?ticket_form_id=360000621393;
+   k) OKI - wsparcie producenta: https://www.oki.com/pl/printing/support/;
+   l) Xerox - wsparcie producenta: https://www.xerox.com/pl-pl/biuro/wsparcie.
+6. Powyższe odnośniki mają charakter pomocniczy. Aktualna procedura gwarancyjna może zależeć od modelu Produktu, kraju dystrybucji, dokumentu gwarancyjnego, decyzji producenta albo autoryzowanego serwisu.
+7. Gwarancja nie wyłącza, nie ogranicza ani nie zawiesza uprawnień Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z przepisów o braku zgodności towaru z umową.
+
+§ 10. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
 1. aj printers sprzedaje również produkty pochodzące z oferty dostawcy THI Sp. z o.o. Sp.k., w tym produkty marek JetWorld, CartridgeWeb, WOX, Oxe, Aeropack, Assima oraz produkty bez marki własnej (BLK), o ile są dostępne w ofercie Sklepu.
 2. Warunki gwarancji dla produktów THI zostały opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (https://ajprinters.pl/warunki-gwarancji-produktow-thi/).
 3. Podstawowe okresy gwarancji produktów THI:
@@ -101,14 +122,14 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 8. Jeżeli Klient twierdzi, że użycie produktu THI spowodowało uszkodzenie urządzenia drukującego, powinien niezwłocznie zgłosić sprawę do aj printers, przekazując opis okoliczności, zdjęcia wady, model i numer seryjny urządzenia, model użytego produktu, numer Zamówienia lub faktury oraz dostępne wydruki testowe albo raporty z urządzenia.
 9. Szczegółowe zasady zgłoszenia uszkodzonego sprzętu, terminy, sposób weryfikacji oraz zasady zwrotów produktów THI zawiera dokument wskazany w ust. 2.
 
-§ 10. Weryfikacja zgłoszeń, dokumentacja i ochrona przed nadużyciami
+§ 11. Weryfikacja zgłoszeń, dokumentacja i ochrona przed nadużyciami
 1. W celu sprawnej i rzetelnej weryfikacji reklamacji, szkody transportowej, zgłoszenia dotyczącego uszkodzenia urządzenia lub innego roszczenia aj printers może poprosić Klienta o przekazanie dodatkowych informacji, zdjęć, dokumentów, protokołu szkody przewoźnika, potwierdzenia nadania lub odbioru przesyłki, numeru Zamówienia, numeru faktury, numeru seryjnego produktu, oznaczenia partii, etykiety przewozowej, opinii serwisowej, kosztorysu, faktury lub rachunku albo innych danych niezbędnych do oceny zgłoszenia.
 2. W przypadku zgłoszenia szkody, w tym żądania zwrotu kosztów dodatkowych, naprawy urządzenia, odszkodowania lub innego świadczenia wykraczającego poza standardową reklamację Produktu, Klient powinien przedstawić dokumenty potwierdzające zasadność i wysokość roszczenia oraz związek pomiędzy zgłaszaną szkodą a Produktem zakupionym w aj printers.
 3. Jeżeli zgłoszenie jest niekompletne, aj printers może poprosić Klienta o jego uzupełnienie w zakresie niezbędnym do oceny sprawy. aj printers może odmówić uznania zgłoszenia, jeżeli z przekazanych informacji, dokumentacji lub okoliczności sprawy wynika, że zgłoszenie jest bezzasadne, sprzeczne z dokumentacją, dotyczy uszkodzenia niezwiązanego z Produktem zakupionym w aj printers, zostało oparte na nieprawdziwych danych albo mimo możliwości uzupełnienia braki uniemożliwiają rzetelną ocenę zgłoszenia.
 4. W przypadku uzasadnionego podejrzenia świadomego podania nieprawdziwych informacji, posłużenia się przerobioną dokumentacją, zatajenia istotnych okoliczności sprawy lub próby uzyskania nienależnego świadczenia aj printers może podjąć działania przewidziane przepisami prawa.
 5. Powyższe zasady nie ograniczają praw Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z powszechnie obowiązujących przepisów prawa.
 
-§ 11. Sposób rozpatrzenia reklamacji
+§ 12. Sposób rozpatrzenia reklamacji
 1. Po otrzymaniu kompletnego zgłoszenia Sprzedawca przystąpi do jego weryfikacji.
 2. Jeżeli charakter sprawy tego wymaga, Sprzedawca może poprosić o doprecyzowanie zgłoszenia, odesłanie Produktu lub przekazanie dodatkowych informacji.
 3. Reklamacje Konsumentów rozpatrywane są w terminach wynikających z obowiązujących przepisów prawa. W typowych przypadkach Sprzedawca ustosunkuje się do reklamacji w terminie 14 dni od otrzymania zgłoszenia.
