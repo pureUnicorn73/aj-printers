@@ -56,8 +56,8 @@ oplata administracyjna 10% wartosci netto, minimum 30 zl, przy zwrocie dobrowoln
 Ryzyko:
 dla relacji konsumenckich oplaty przy zwrotach trzeba traktowac ostroznie. Obecne zastrzezenie `o ile jest to dopuszczalne w danej relacji z Klientem` jest pomocne, ale mozna jeszcze wyrazniej wskazac, ze nie dotyczy ustawowego prawa odstapienia ani reklamacji.
 
-Rekomendacja:
-doprecyzowac, ze oplata dotyczy wylacznie dobrowolnego zwrotu uzgodnionego indywidualnie, poza ustawowym odstapieniem od umowy i poza reklamacja.
+Status:
+doprecyzowano, ze oplata dotyczy wylacznie dobrowolnego zwrotu uzgodnionego indywidualnie, poza ustawowym odstapieniem od umowy, reklamacja oraz roszczeniami z tytulu niezgodnosci towaru z umowa. Dopisano tez, ze oplata nie ma zastosowania, gdy zwrot wynika z pomylki aj printers, dostawcy albo podmiotu realizujacego zamowienie.
 
 ### 5. THI i kontakt klienta
 
@@ -87,7 +87,6 @@ po zamknieciu tresci TXT wygenerowac albo podmienic finalne PDF-y.
 ## Rekomendowana kolejnosc nastepnych zmian
 
 1. Termin 48 godzin zostal doprecyzowany w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/reklamacje-aj-printers.txt`.
-2. Doprecyzowac oplate administracyjna przy zwrotach THI w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/warunki-gwarancji-produktow-thi-aj-printers.txt`.
-3. Doprecyzowac fragment o ewentualnej obsludze bezposrednio przez THI w `txt/reklamacje-aj-printers.txt`.
-4. Po zatwierdzeniu tresci przygotowac odswiezenie PDF.
-
+2. Oplata administracyjna przy zwrotach THI zostala doprecyzowana w `txt/regulamin-zwrotow-aj-printers.txt` i `txt/warunki-gwarancji-produktow-thi-aj-printers.txt`.
+3. Doprecyzowac fragment o ewentualnej obsludze bezposrednio przez THI w `txt/reklamacje-aj-printers.txt`, jezeli taka sciezka ma byc publicznie opisana.
+4. Po zatwierdzeniu tresci odswiezyc PDF-y po zmianach w plikach TXT.
