@@ -15,8 +15,8 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 4. Konsument - osoba fizyczna dokonująca czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową.
 5. Przedsiębiorca na prawach konsumenta - osoba fizyczna zawierająca umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści umowy wynika, że nie ma ona dla tej osoby charakteru zawodowego.
 6. Konto - indywidualny panel Klienta udostępniany po rejestracji.
-7. Produkt - rzecz lub usługa dostępna w Sklepie, w tym produkt drukowany, materiał eksploatacyjny, akcesorium, usługa druku, kserowania, skanowania lub produkt wykonywany na zamówienie.
-8. Produkt personalizowany - Produkt nieprefabrykowany albo usługa wykonywana według specyfikacji Klienta, na podstawie materiałów przekazanych przez Klienta albo służąca zaspokojeniu jego zindywidualizowanych potrzeb, w szczególności druk na ploterze, kserowanie, skanowanie lub inna usługa przygotowywana indywidualnie.
+7. Produkt - rzecz lub usługa dostępna w Sklepie, w tym produkt drukowany, materiał eksploatacyjny, akcesorium, usługa druku, kserowania, skanowania, wykonania pieczątki lub produkt wykonywany na zamówienie.
+8. Produkt personalizowany - Produkt nieprefabrykowany albo usługa wykonywana według specyfikacji Klienta, na podstawie materiałów przekazanych przez Klienta albo służąca zaspokojeniu jego zindywidualizowanych potrzeb, w szczególności druk na ploterze, kserowanie, skanowanie, wykonanie pieczątki lub inna usługa przygotowywana indywidualnie.
 9. Zamówienie - oświadczenie Klienta zmierzające do zawarcia umowy sprzedaży Produktu.
 
 § 3. Usługi elektroniczne i wymagania techniczne
@@ -41,7 +41,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 5. Jeżeli realizacja Zamówienia okaże się niemożliwa w całości albo części, Sprzedawca niezwłocznie poinformuje Klienta i zwróci dokonane płatności w odpowiednim zakresie.
 
 § 6. Produkty wykonywane na indywidualne zamówienie
-1. Klient odpowiada za treść, jakość techniczną, poprawność i zgodność z prawem materiałów przekazanych do realizacji Produktu personalizowanego lub usługi indywidualnej, w szczególności plików graficznych, tekstów, znaków towarowych, zdjęć, dokumentów przekazanych do druku, kserowania albo skanowania.
+1. Klient odpowiada za treść, jakość techniczną, poprawność i zgodność z prawem materiałów przekazanych do realizacji Produktu personalizowanego lub usługi indywidualnej, w szczególności plików graficznych, tekstów, znaków towarowych, zdjęć, dokumentów przekazanych do druku, kserowania, skanowania albo wykonania pieczątki.
 2. Klient oświadcza, że posiada prawa, licencje lub zgody niezbędne do wykorzystania przekazanych materiałów.
 3. Sprzedawca może odmówić realizacji Zamówienia, jeżeli materiały naruszają prawo, prawa osób trzecich, dobre obyczaje albo wymagania techniczne produkcji.
 4. Jeżeli realizacja wymaga akceptacji projektu, prace produkcyjne rozpoczynają się po akceptacji projektu przez Klienta. Akceptacja oznacza potwierdzenie poprawności treści, układu, kolorystyki, danych kontaktowych i innych elementów projektu.

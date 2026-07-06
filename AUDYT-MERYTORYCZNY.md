@@ -22,7 +22,7 @@ Stan:
 - operator platnosci: Tpay potwierdzony jako zgodny;
 - newsletter: zostawiony warunkowo, do wlaczenia tylko jezeli funkcja bedzie aktywna w sklepie;
 - cookies/analityka/marketing: do potwierdzenia po konfiguracji sklepu i mechanizmu zgod;
-- produkty personalizowane/uslugi indywidualne: doprecyzowano pod druk na ploterze, kserowanie i skanowanie;
+- produkty personalizowane/uslugi indywidualne: doprecyzowano pod druk na ploterze, kserowanie, skanowanie i wykonanie pieczatek;
 - brak wykrytych pozostalosci `Rafcom`;
 - brak wykrytego starego adresu `biuro@ajprinters.pl`.
 

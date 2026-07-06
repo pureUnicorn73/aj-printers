@@ -18,7 +18,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 
 § 4. Zakres danych
 1. Administrator może przetwarzać w szczególności: imię i nazwisko, nazwę firmy, NIP, adres e-mail, numer telefonu, adres dostawy, adres korespondencyjny, dane do faktury, historię zamówień, dane płatności, treść korespondencji, dane dotyczące reklamacji i zwrotów oraz przesłane załączniki.
-2. W przypadku Produktów personalizowanych oraz usług wykonywanych według materiałów Klienta, takich jak druk, kserowanie lub skanowanie, Administrator może przetwarzać dane zawarte w materiałach przekazanych do realizacji, np. w plikach graficznych, dokumentach, zdjęciach lub treściach do druku.
+2. W przypadku Produktów personalizowanych oraz usług wykonywanych według materiałów Klienta, takich jak druk, kserowanie, skanowanie lub wykonanie pieczątki, Administrator może przetwarzać dane zawarte w materiałach przekazanych do realizacji, np. w plikach graficznych, dokumentach, zdjęciach, treściach do druku albo danych umieszczanych na pieczątce.
 3. Administrator prosi o nieprzekazywanie danych szczególnych kategorii, chyba że jest to niezbędne do realizacji konkretnego żądania i wynika z decyzji osoby przekazującej dane.
 
 § 5. Cele i podstawy prawne przetwarzania
