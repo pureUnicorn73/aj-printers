@@ -39,7 +39,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 4. W przypadku przesyłek odbieranych z automatów paczkowych lub punktów odbioru innych przewoźników należy skorzystać z właściwego formularza szkody, elektronicznego protokołu szkody albo procedury reklamacyjnej danego przewoźnika.
 5. Zgłoszenie do aj printers należy przesłać na adres sklep@ajprinters.pl niezwłocznie, najlepiej w terminie 24 godzin od odbioru przesyłki, dołączając opis sytuacji, zdjęcia oraz protokół szkody albo potwierdzenie zgłoszenia szkody u przewoźnika.
 6. Do czasu zakończenia postępowania reklamacyjnego należy zachować opakowanie, wypełnienia, etykietę przewozową oraz uszkodzony Produkt.
-7. Odbiór przesyłki z automatu paczkowego, paczkomatu albo punktu odbioru nie wyłącza obowiązku dochowania należytej staranności przy dokumentowaniu szkody transportowej. Brak dokumentacji może utrudnić lub uniemożliwić skuteczne dochodzenie roszczeń wobec przewoźnika.
+7. Odbiór przesyłki z automatu paczkowego, paczkomatu albo punktu odbioru nie wyłącza potrzeby zachowania należytej staranności przy dokumentowaniu szkody transportowej. Brak dokumentacji może utrudnić lub uniemożliwić skuteczne dochodzenie roszczeń wobec przewoźnika. Powyższe nie ogranicza ustawowych uprawnień Konsumenta ani Przedsiębiorcy na prawach konsumenta.
 
 § 5. Protokoły szkody przewoźników do pobrania
 W przypadku szkody transportowej należy użyć formularza właściwego dla przewoźnika albo formularza udostępnionego przez kuriera, punkt odbioru lub system przewoźnika. Pliki do podlinkowania na stronie:
@@ -60,7 +60,7 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 § 7. Reklamacje materiałów eksploatacyjnych i urządzeń drukujących
 1. W zgłoszeniu dotyczącym tonera, tuszu, bębna, głowicy, drukarki lub innego urządzenia należy podać: model urządzenia, numer seryjny urządzenia, model reklamowanego produktu, numer Zamówienia lub faktury, opis problemu oraz zdjęcia etykiet i opakowania.
 2. Jeżeli problem jest widoczny na wydruku, należy dołączyć skan lub zdjęcie wadliwego wydruku oraz - jeżeli to możliwe - wydruk strony testowej, raport stanu materiałów eksploatacyjnych albo zdjęcie komunikatu na panelu urządzenia.
-3. Produkty zasypane, rozlane, uszkodzone mechanicznie lub niewłaściwie zabezpieczone do transportu mogą nie zostać przyjęte do reklamacji, jeżeli stan uniemożliwia ocenę zgłoszenia albo uszkodzenie powstało z przyczyn niezależnych od Sprzedawcy.
+3. Produkty zasypane, rozlane, uszkodzone mechanicznie lub niewłaściwie zabezpieczone do transportu mogą utrudnić albo uniemożliwić ocenę zgłoszenia. Jeżeli z okoliczności sprawy wynika, że uszkodzenie powstało z przyczyn niezależnych od Sprzedawcy albo stan Produktu uniemożliwia rzetelną ocenę, Sprzedawca może odmówić uznania reklamacji w odpowiednim zakresie.
 4. Jeżeli Produkt jest objęty gwarancją producenta, Klient może zostać poproszony o skorzystanie z procedury producenta albo autoryzowanego serwisu. aj printers udzieli informacji o dalszym postępowaniu w zakresie posiadanych danych.
 
 
@@ -104,12 +104,12 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 § 10. Weryfikacja zgłoszeń, dokumentacja i ochrona przed nadużyciami
 1. W celu sprawnej i rzetelnej weryfikacji reklamacji, szkody transportowej, zgłoszenia dotyczącego uszkodzenia urządzenia lub innego roszczenia aj printers może poprosić Klienta o przekazanie dodatkowych informacji, zdjęć, dokumentów, protokołu szkody przewoźnika, potwierdzenia nadania lub odbioru przesyłki, numeru Zamówienia, numeru faktury, numeru seryjnego produktu, oznaczenia partii, etykiety przewozowej, opinii serwisowej, kosztorysu, faktury lub rachunku albo innych danych niezbędnych do oceny zgłoszenia.
 2. W przypadku zgłoszenia szkody, w tym żądania zwrotu kosztów dodatkowych, naprawy urządzenia, odszkodowania lub innego świadczenia wykraczającego poza standardową reklamację Produktu, Klient powinien przedstawić dokumenty potwierdzające zasadność i wysokość roszczenia oraz związek pomiędzy zgłaszaną szkodą a Produktem zakupionym w aj printers.
-3. aj printers może odmówić uznania zgłoszenia, jeżeli z przekazanych informacji, dokumentacji lub okoliczności sprawy wynika, że zgłoszenie jest bezzasadne, niekompletne, sprzeczne z dokumentacją, dotyczy uszkodzenia niezwiązanego z Produktem zakupionym w aj printers albo zostało oparte na nieprawdziwych danych.
+3. Jeżeli zgłoszenie jest niekompletne, aj printers może poprosić Klienta o jego uzupełnienie w zakresie niezbędnym do oceny sprawy. aj printers może odmówić uznania zgłoszenia, jeżeli z przekazanych informacji, dokumentacji lub okoliczności sprawy wynika, że zgłoszenie jest bezzasadne, sprzeczne z dokumentacją, dotyczy uszkodzenia niezwiązanego z Produktem zakupionym w aj printers, zostało oparte na nieprawdziwych danych albo mimo możliwości uzupełnienia braki uniemożliwiają rzetelną ocenę zgłoszenia.
 4. W przypadku uzasadnionego podejrzenia świadomego podania nieprawdziwych informacji, posłużenia się przerobioną dokumentacją, zatajenia istotnych okoliczności sprawy lub próby uzyskania nienależnego świadczenia aj printers może podjąć działania przewidziane przepisami prawa.
 5. Powyższe zasady nie ograniczają praw Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z powszechnie obowiązujących przepisów prawa.
 
 § 11. Sposób rozpatrzenia reklamacji
 1. Po otrzymaniu kompletnego zgłoszenia Sprzedawca przystąpi do jego weryfikacji.
-2. Sprzedawca może poprosić o uzupełnienie dokumentacji, odesłanie Produktu lub przekazanie dodatkowych informacji.
+2. Jeżeli charakter sprawy tego wymaga, Sprzedawca może poprosić o doprecyzowanie zgłoszenia, odesłanie Produktu lub przekazanie dodatkowych informacji.
 3. Reklamacje Konsumentów rozpatrywane są w terminach wynikających z obowiązujących przepisów prawa. W typowych przypadkach Sprzedawca ustosunkuje się do reklamacji w terminie 14 dni od otrzymania zgłoszenia.
 4. W przypadku uznania reklamacji Sprzedawca poinformuje Klienta o sposobie jej realizacji, np. naprawie, wymianie, obniżeniu ceny, zwrocie płatności albo innym rozwiązaniu zgodnym z przepisami i charakterem sprawy.
