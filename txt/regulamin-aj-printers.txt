@@ -23,7 +23,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 1. Za pośrednictwem Sklepu Sprzedawca świadczy usługi elektroniczne polegające w szczególności na: udostępnianiu treści Sklepu, prowadzeniu Konta, formularzy kontaktowych i zamówieniowych, koszyka oraz newslettera, jeżeli jest dostępny.
 2. Do korzystania ze Sklepu niezbędne są: urządzenie z dostępem do Internetu, aktualna przeglądarka internetowa obsługująca HTTPS, JavaScript i cookies oraz aktywne konto poczty elektronicznej.
 3. Klient jest zobowiązany korzystać ze Sklepu zgodnie z prawem, dobrymi obyczajami i Regulaminem, w szczególności nie dostarczać treści bezprawnych, nie naruszać praw osób trzecich i nie podejmować działań zakłócających pracę Sklepu.
-4. Informacja o szczególnych zagrożeniach związanych z usługami elektronicznymi jest dostępna w dokumencie Informacja o zagrożeniach (https://ajprinters.pl/informacja-o-zagrozeniach/), Warunki gwarancji produktów THI (https://ajprinters.pl/warunki-gwarancji-produktow-thi/).
+4. Informacja o szczególnych zagrożeniach związanych z usługami elektronicznymi jest dostępna w dokumencie Informacja o zagrożeniach (https://ajprinters.pl/informacja-o-zagrozeniach/).
 5. Informacje o plikach cookies są dostępne w Polityce prywatności i cookies (https://ajprinters.pl/polityka-prywatnosci/).
 
 § 4. Konto Klienta
