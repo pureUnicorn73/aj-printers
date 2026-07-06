@@ -1,4 +1,4 @@
-﻿# Audyt linkow i placeholderow
+# Audyt linkow i placeholderow
 
 ## Zakres
 
@@ -32,7 +32,7 @@ pozostawic pole daty do recznego uzupelnienia przed publikacja albo wpisac jedna
 W tresci dokumentow linki sa zapisane jako nazwy plikow PDF, np. `regulamin-aj-printers.pdf`, `reklamacje-aj-printers.pdf`, `regulamin-zwrotow-aj-printers.pdf`.
 
 Rekomendacja:
-w tresciach publikowanych w CMS zamienic nazwy plikow na docelowe adresy podstron albo publiczne URL-e PDF, zaleĹĽnie od kontekstu:
+w tresciach publikowanych w CMS zamienic nazwy plikow na docelowe adresy podstron albo publiczne URL-e PDF, zależnie od kontekstu:
 - gdy dokument odsyla do tresci prawnej, preferowac podstrone CMS;
 - gdy dokument odsyla do pobrania formularza, preferowac PDF w `/pliki/dokumenty/`;
 - gdy dokument odsyla do protokolu szkody, preferowac PDF w `/pliki/protokoly-szkody/`.
@@ -69,7 +69,7 @@ albo uzupelnic linki, albo usunac te punkty z wersji publikowanej, jezeli linki 
 Plik `txt/README-linkowanie.txt` zawiera starszy adres `/zwroty/`.
 
 Rekomendacja:
-zaktualizowac go do `https://ajprinters.pl/content/12-zwroty` albo uznac, ze nadrzedna checklista `WDROZENIE-CHECKLISTA.md` zastÄ™puje ten plik.
+zaktualizowac go do `https://ajprinters.pl/content/12-zwroty` albo uznac, ze nadrzedna checklista `WDROZENIE-CHECKLISTA.md` zastępuje ten plik.
 
 ## Proponowana kolejnosc poprawek
 
