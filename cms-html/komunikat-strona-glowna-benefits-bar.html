@@ -1,93 +1,122 @@
 <style>
-.aj-before-buy-section {
-  background: #f6f9fc;
-  border: 1px solid #d7e5f1;
-  border-radius: 8px;
-  box-sizing: border-box;
-  margin: 22px 0;
-  padding: 18px 20px;
-}
-
-.aj-before-buy-section__title {
+.aj-before-buy-title {
   color: #1f2a37;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.3;
-  margin: 0 0 14px;
+  margin: 22px 0 10px;
 }
 
-.aj-before-buy-section a {
+.aj-before-buy-box {
+  background: #f6f9fc;
+  border: 1px solid #d7e5f1;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #243447;
+  display: flex;
+  font-size: 13px;
+  line-height: 1.35;
+  margin: 0 0 22px;
+  padding: 10px 12px;
+  width: 100%;
+}
+
+.aj-before-buy-item {
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 2px 14px;
+}
+
+.aj-before-buy-item + .aj-before-buy-item {
+  border-left: 1px solid #dfe9f2;
+}
+
+.aj-before-buy-icon {
+  color: inherit;
+  flex: 0 0 auto;
+  font-size: 22px;
+  line-height: 1;
+  margin-right: 10px;
+}
+
+.aj-before-buy-content {
+  min-width: 0;
+}
+
+.aj-before-buy-content strong {
+  color: #1f2a37;
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.25;
+  margin: 0 0 2px;
+}
+
+.aj-before-buy-content span,
+.aj-before-buy-content a {
+  display: block;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.aj-before-buy-content a {
   color: #F8014E !important;
   font-weight: 700;
   text-decoration: none;
 }
 
-.aj-before-buy-section .aj-top-info-bar {
-  background: transparent !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
+@media (max-width: 767px) {
+  .aj-before-buy-box {
+    display: block;
+    padding: 10px 12px;
+  }
 
-.aj-before-buy-section .aj-top-info-inner {
-  width: 100% !important;
-}
+  .aj-before-buy-item {
+    padding: 8px 0;
+  }
 
-.aj-before-buy-section .aj-top-info-separator:first-child,
-.aj-before-buy-section .aj-top-info-separator:last-child {
-  display: none !important;
+  .aj-before-buy-item + .aj-before-buy-item {
+    border-left: 0;
+    border-top: 1px solid #dfe9f2;
+  }
 }
 </style>
 
-<div class="aj-before-buy-section">
-<div class="aj-before-buy-section__title">Wa&#380;ne informacje przed zakupem</div>
+<div class="aj-before-buy-title">Wa&#380;ne informacje przed zakupem</div>
 
-<div class="aj-top-info-bar aj-before-buy-bar">
-  <div class="aj-top-info-inner">
-    <div class="aj-top-info-item">
-      <div class="icon">
-        <i class="fal fa-image" aria-hidden="true"></i>
-      </div>
-      <div class="content">
-        <span class="title">Zdj&#281;cia pogl&#261;dowe</span>
-        <p>Opakowanie mo&#380;e r&#243;&#380;ni&#263; si&#281; od prezentowanego</p>
-      </div>
-    </div>
-
-    <span class="aj-top-info-separator"></span>
-
-    <div class="aj-top-info-item">
-      <div class="icon">
-        <i class="fal fa-tags" aria-hidden="true"></i>
-      </div>
-      <div class="content">
-        <span class="title">Cena za 1 sztuk&#281;</span>
-        <p>Chyba &#380;e opis produktu wskazuje inaczej</p>
-      </div>
-    </div>
-
-    <span class="aj-top-info-separator"></span>
-
-    <div class="aj-top-info-item">
-      <div class="icon">
-        <i class="fal fa-check" aria-hidden="true"></i>
-      </div>
-      <div class="content">
-        <span class="title">Sprawd&#378; zgodno&#347;&#263;</span>
-        <p>Dobierz produkt do modelu urz&#261;dzenia</p>
-      </div>
-    </div>
-
-    <span class="aj-top-info-separator"></span>
-
-    <div class="aj-top-info-item">
-      <div class="icon">
-        <i class="fal fa-info-circle" aria-hidden="true"></i>
-      </div>
-      <div class="content">
-        <span class="title">Przed zakupem</span>
-        <p><a href="[TU-WKLEJ-LINK-DO-PODSTRONY]">zobacz szczeg&#243;&#322;y</a></p>
-      </div>
+<div class="aj-before-buy-box">
+  <div class="aj-before-buy-item">
+    <div class="aj-before-buy-icon"><i class="fal fa-image" aria-hidden="true"></i></div>
+    <div class="aj-before-buy-content">
+      <strong>Zdj&#281;cia pogl&#261;dowe</strong>
+      <span>Opakowanie mo&#380;e r&#243;&#380;ni&#263; si&#281; od prezentowanego</span>
     </div>
   </div>
-</div>
+
+  <div class="aj-before-buy-item">
+    <div class="aj-before-buy-icon"><i class="fal fa-tags" aria-hidden="true"></i></div>
+    <div class="aj-before-buy-content">
+      <strong>Cena za 1 sztuk&#281;</strong>
+      <span>Chyba &#380;e opis produktu wskazuje inaczej</span>
+    </div>
+  </div>
+
+  <div class="aj-before-buy-item">
+    <div class="aj-before-buy-icon"><i class="fal fa-check" aria-hidden="true"></i></div>
+    <div class="aj-before-buy-content">
+      <strong>Sprawd&#378; zgodno&#347;&#263;</strong>
+      <span>Dobierz produkt do modelu urz&#261;dzenia</span>
+    </div>
+  </div>
+
+  <div class="aj-before-buy-item">
+    <div class="aj-before-buy-icon"><i class="fal fa-info-circle" aria-hidden="true"></i></div>
+    <div class="aj-before-buy-content">
+      <strong>Przed zakupem</strong>
+      <a href="[TU-WKLEJ-LINK-DO-PODSTRONY]">zobacz szczeg&#243;&#322;y</a>
+    </div>
+  </div>
 </div>
