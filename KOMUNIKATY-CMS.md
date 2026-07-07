@@ -5,6 +5,8 @@
 Najbezpieczniej wklejac wersje HTML z encjami z folderu `cms-html`, bo nie zalezy od kodowania edytora CMS:
 
 - `cms-html/komunikat-strona-glowna.html`
+- `cms-html/komunikat-produkt-footer-pionowy.html` - aktualny blok pionowy do `leftColumn` i `leftColumnProduct`
+- `cms-html/wazne-informacje-przed-zakupem.html` - tresc podstrony `https://ajprinters.pl/content/21-przed-zakupem`
 - `cms-html/komunikat-produkt.html`
 - `cms-html/komunikat-materialy-eksploatacyjne.html`
 - `cms-html/komunikat-koszyk-dostawa.html`
@@ -21,10 +23,20 @@ Najbezpieczniej wklejac wersje HTML z encjami z folderu `cms-html`, bo nie zalez
 - Zalecane rogi: delikatnie zaokraglone.
 - Komunikaty nie powinny zaslaniac ceny, przycisku zakupu ani informacji o dostawie.
 
-## Strona glowna
+## Aktualna decyzja wdrozeniowa
 
-Miejsce:
-nad stopka.
+Nie publikujemy osobnego bloku na stronie glownej.
+
+Informacje przed zakupem sa wdrazane jako:
+
+- podstrona CMS: `https://ajprinters.pl/content/21-przed-zakupem`;
+- pionowy blok HTML w hookach Presta: `leftColumn` oraz `leftColumnProduct`;
+- plik do wklejenia w blok boczny: `cms-html/komunikat-produkt-footer-pionowy.html`.
+
+## Podstrona "Przed zakupem"
+
+Plik HTML:
+`cms-html/wazne-informacje-przed-zakupem.html`
 
 Naglowek:
 `Wazne informacje przed zakupem`
@@ -41,17 +53,9 @@ Przed zakupem prosimy o sprawdzenie zgodnosci produktu z modelem urzadzenia. W r
 
 Informacje o dostepnosci i terminach realizacji aktualizujemy na biezaco, jednak w wyjatkowych przypadkach moga one zalezec od dostawcy lub przewoznika. W przypadku zauwazenia bledu lub niescislosci prosimy o kontakt przed zlozeniem zamowienia.
 
-### Wersja HTML
+## Starszy wariant HTML na strone glowna
 
-```html
-<section class="aj-info-box aj-info-box--home">
-  <h2>Wazne informacje przed zakupem</h2>
-  <p>Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie aj printers byly aktualne i prawidlowe. Zdjecia przedstawiaja oferowany produkt, jednak kolorystyka, detale graficzne, etykieta lub wyglad opakowania moga roznic sie od prezentowanych na stronie.</p>
-  <p>Jezeli na zdjeciu widoczne jest opakowanie zbiorcze, karton, paczka lub zestaw, nie oznacza to sprzedazy calego opakowania. Podstawowa jednostka sprzedazy jest 1 sztuka produktu, chyba ze nazwa, opis lub parametry wyraznie wskazuja inaczej.</p>
-  <p>Przed zakupem prosimy o sprawdzenie zgodnosci produktu z modelem urzadzenia. W razie watpliwosci zachecamy do kontaktu - pomozemy dobrac wlasciwy produkt.</p>
-  <p>Informacje o dostepnosci i terminach realizacji aktualizujemy na biezaco, jednak w wyjatkowych przypadkach moga one zalezec od dostawcy lub przewoznika. W przypadku zauwazenia bledu lub niescislosci prosimy o kontakt przed zlozeniem zamowienia.</p>
-</section>
-```
+Pliki `cms-html/komunikat-strona-glowna.html`, `cms-html/komunikat-strona-glowna-benefits-bar.html` i `cms-html/komunikat-strona-glowna-krotki-inline.html` zostaja jako warianty robocze, ale aktualnie nie sa wdrazane.
 
 ## Karta produktu - komunikat podstawowy
 

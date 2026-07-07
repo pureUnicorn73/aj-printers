@@ -2,7 +2,7 @@
 
 ## Cel
 
-Uzupelnic strone aj printers o dokumenty regulaminowe, reklamacyjne, zwrotowe, RODO oraz komunikaty informacyjne na stronie glownej, kartach produktu i w koszyku.
+Uzupelnic strone aj printers o dokumenty regulaminowe, reklamacyjne, zwrotowe, RODO oraz komunikaty informacyjne w podstronach CMS, lewej kolumnie, kartach produktu i docelowo w koszyku.
 
 ## Struktura publiczna plikow
 
@@ -82,18 +82,31 @@ Dodatkowy przycisk:
 Link:
 `/pliki/dokumenty/formularz-odstapienia-aj-printers.pdf`
 
-## Komunikat na stronie glownej
+## Informacje przed zakupem
 
-Miejsce:
-nad stopka.
+Decyzja wdrozeniowa:
+nie publikujemy osobnego bloku na stronie glownej. Informacje przed zakupem sa wdrazane jako podstrona CMS oraz pionowy blok w lewej kolumnie.
+
+Podstrona CMS:
+`https://ajprinters.pl/content/21-przed-zakupem`
+
+Tresc podstrony:
+`cms-html/wazne-informacje-przed-zakupem.html`
+
+Blok boczny:
+`cms-html/komunikat-produkt-footer-pionowy.html`
+
+Hooki Presta:
+- `leftColumn`
+- `leftColumnProduct`
 
 Naglowek:
 `Wazne informacje przed zakupem`
 
 Tresc:
-`Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie aj printers byly aktualne i prawidlowe. Zdjecia maja charakter pogladowy, a wyglad opakowania moze roznic sie od prezentowanego na stronie.`
+`Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie aj printers byly aktualne i prawidlowe. Zdjecia przedstawiaja oferowany produkt, jednak kolorystyka, detale graficzne, etykieta lub wyglad opakowania moga roznic sie od prezentowanych na stronie.`
 
-`Podstawowa jednostka sprzedazy jest 1 sztuka produktu, chyba ze nazwa, opis lub parametry wyraznie wskazuja inaczej, np. opakowanie, zestaw, karton, paczke lub wielopak.`
+`Jezeli na zdjeciu widoczne jest opakowanie zbiorcze, karton, paczka lub zestaw, nie oznacza to sprzedazy calego opakowania. Podstawowa jednostka sprzedazy jest 1 sztuka produktu, chyba ze nazwa, opis lub parametry wyraznie wskazuja inaczej.`
 
 `Przed zakupem prosimy o sprawdzenie zgodnosci produktu z modelem urzadzenia. W razie watpliwosci zachecamy do kontaktu - pomozemy dobrac wlasciwy produkt.`
 
@@ -102,13 +115,13 @@ Tresc:
 ## Komunikaty na karcie produktu
 
 Podstawowy box:
-`Zdjecie pogladowe. Cena dotyczy 1 sztuki, chyba ze nazwa, opis lub parametry produktu wskazuja inaczej. Masz watpliwosci? Skontaktuj sie z nami przed zakupem.`
+`Zdjecia przedstawiaja oferowany produkt, jednak kolorystyka, detale, etykieta lub wyglad opakowania moga roznic sie od prezentowanych. Cena dotyczy 1 sztuki, chyba ze nazwa, opis lub parametry produktu wskazuja inaczej.`
 
 Dla materialow eksploatacyjnych:
 `Przed zakupem sprawdz zgodnosc produktu z modelem urzadzenia. W razie watpliwosci skontaktuj sie z nami - pomozemy dobrac odpowiedni produkt.`
 
 Dodatkowa informacja:
-`Opakowanie produktu moze roznic sie od zdjecia bez wplywu na jego parametry, przeznaczenie lub kompatybilnosc.`
+`Jezeli zdjecie pokazuje opakowanie zbiorcze, karton lub zestaw, nie oznacza to sprzedazy calego opakowania. Masz watpliwosci? Skontaktuj sie z nami przed zakupem.`
 
 ## Komunikat w koszyku lub przy dostawie
 
