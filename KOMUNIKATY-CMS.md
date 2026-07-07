@@ -99,6 +99,9 @@ Przed zakupem sprawdz zgodnosc produktu z modelem urzadzenia. W razie watpliwosc
 Miejsce:
 w koszyku, przy wyborze dostawy albo przy podsumowaniu zamowienia.
 
+Status:
+plik jest przygotowany, ale wdrozenie w Presta zostaje przeniesione do osobnego projektu.
+
 ### Wersja tekstowa
 
 Termin realizacji moze zalezec od dostepnosci produktu u dostawcy oraz pracy przewoznika. W razie zmian skontaktujemy sie z Toba przed realizacja zamowienia.

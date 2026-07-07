@@ -127,6 +127,9 @@ Dodatkowa informacja:
 
 `Termin realizacji moze zalezec od dostepnosci produktu u dostawcy oraz pracy przewoznika. W razie zmian skontaktujemy sie z Toba przed realizacja zamowienia.`
 
+Status:
+przygotowany jako plik `cms-html/komunikat-koszyk-dostawa.html`, ale wdrozenie komunikatu w koszyku / przy dostawie zostaje przeniesione do osobnego projektu.
+
 ## Wskazowki stylistyczne
 
 - Komunikaty neutralne i przyjazne.
