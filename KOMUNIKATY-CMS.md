@@ -33,9 +33,9 @@ Naglowek:
 
 Wazne informacje przed zakupem
 
-Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie aj printers byly aktualne i prawidlowe. Zdjecia maja charakter pogladowy, a wyglad opakowania moze roznic sie od prezentowanego na stronie.
+Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie aj printers byly aktualne i prawidlowe. Zdjecia przedstawiaja oferowany produkt, jednak kolorystyka, detale graficzne, etykieta lub wyglad opakowania moga roznic sie od prezentowanych na stronie.
 
-Podstawowa jednostka sprzedazy jest 1 sztuka produktu, chyba ze nazwa, opis lub parametry wyraznie wskazuja inaczej, np. opakowanie, zestaw, karton, paczke lub wielopak.
+Jezeli na zdjeciu widoczne jest opakowanie zbiorcze, karton, paczka lub zestaw, nie oznacza to sprzedazy calego opakowania. Podstawowa jednostka sprzedazy jest 1 sztuka produktu, chyba ze nazwa, opis lub parametry wyraznie wskazuja inaczej.
 
 Przed zakupem prosimy o sprawdzenie zgodnosci produktu z modelem urzadzenia. W razie watpliwosci zachecamy do kontaktu - pomozemy dobrac wlasciwy produkt.
 
@@ -46,8 +46,8 @@ Informacje o dostepnosci i terminach realizacji aktualizujemy na biezaco, jednak
 ```html
 <section class="aj-info-box aj-info-box--home">
   <h2>Wazne informacje przed zakupem</h2>
-  <p>Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie aj printers byly aktualne i prawidlowe. Zdjecia maja charakter pogladowy, a wyglad opakowania moze roznic sie od prezentowanego na stronie.</p>
-  <p>Podstawowa jednostka sprzedazy jest 1 sztuka produktu, chyba ze nazwa, opis lub parametry wyraznie wskazuja inaczej, np. opakowanie, zestaw, karton, paczke lub wielopak.</p>
+  <p>Dokladamy wszelkich staran, aby opisy, zdjecia, ceny i parametry produktow w sklepie aj printers byly aktualne i prawidlowe. Zdjecia przedstawiaja oferowany produkt, jednak kolorystyka, detale graficzne, etykieta lub wyglad opakowania moga roznic sie od prezentowanych na stronie.</p>
+  <p>Jezeli na zdjeciu widoczne jest opakowanie zbiorcze, karton, paczka lub zestaw, nie oznacza to sprzedazy calego opakowania. Podstawowa jednostka sprzedazy jest 1 sztuka produktu, chyba ze nazwa, opis lub parametry wyraznie wskazuja inaczej.</p>
   <p>Przed zakupem prosimy o sprawdzenie zgodnosci produktu z modelem urzadzenia. W razie watpliwosci zachecamy do kontaktu - pomozemy dobrac wlasciwy produkt.</p>
   <p>Informacje o dostepnosci i terminach realizacji aktualizujemy na biezaco, jednak w wyjatkowych przypadkach moga one zalezec od dostawcy lub przewoznika. W przypadku zauwazenia bledu lub niescislosci prosimy o kontakt przed zlozeniem zamowienia.</p>
 </section>
@@ -60,16 +60,16 @@ w poblizu ceny, opisu albo przycisku zakupu, ale bez zaburzania ukladu mobilnego
 
 ### Wersja tekstowa
 
-Zdjecie pogladowe. Cena dotyczy 1 sztuki, chyba ze nazwa, opis lub parametry produktu wskazuja inaczej. Masz watpliwosci? Skontaktuj sie z nami przed zakupem.
+Zdjecia przedstawiaja oferowany produkt, jednak kolorystyka, detale, etykieta lub wyglad opakowania moga roznic sie od prezentowanych. Cena dotyczy 1 sztuki, chyba ze nazwa, opis lub parametry produktu wskazuja inaczej.
 
-Opakowanie produktu moze roznic sie od zdjecia bez wplywu na jego parametry, przeznaczenie lub kompatybilnosc.
+Jezeli zdjecie pokazuje opakowanie zbiorcze, karton lub zestaw, nie oznacza to sprzedazy calego opakowania. Masz watpliwosci? Skontaktuj sie z nami przed zakupem.
 
 ### Wersja HTML
 
 ```html
 <div class="aj-info-box aj-info-box--product">
-  <p>Zdjecie pogladowe. Cena dotyczy 1 sztuki, chyba ze nazwa, opis lub parametry produktu wskazuja inaczej. Masz watpliwosci? Skontaktuj sie z nami przed zakupem.</p>
-  <p>Opakowanie produktu moze roznic sie od zdjecia bez wplywu na jego parametry, przeznaczenie lub kompatybilnosc.</p>
+  <p>Zdjecia przedstawiaja oferowany produkt, jednak kolorystyka, detale, etykieta lub wyglad opakowania moga roznic sie od prezentowanych. Cena dotyczy 1 sztuki, chyba ze nazwa, opis lub parametry produktu wskazuja inaczej.</p>
+  <p>Jezeli zdjecie pokazuje opakowanie zbiorcze, karton lub zestaw, nie oznacza to sprzedazy calego opakowania. Masz watpliwosci? Skontaktuj sie z nami przed zakupem.</p>
 </div>
 ```
 
