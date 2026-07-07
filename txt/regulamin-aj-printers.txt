@@ -6,7 +6,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 2. Kontakt ze Sprzedawcą: e-mail: sklep@ajprinters.pl, telefon: +48 572 701 802.
 3. Regulamin określa zasady korzystania ze Sklepu, składania zamówień, zawierania i wykonywania umów sprzedaży, płatności, dostaw, reklamacji, zwrotów oraz prawa odstąpienia od umowy.
 4. Regulamin jest regulaminem świadczenia usług drogą elektroniczną w rozumieniu ustawy o świadczeniu usług drogą elektroniczną.
-5. Dokumenty powiązane: Polityka prywatności i cookies (https://ajprinters.pl/polityka-prywatnosci/), Reklamacje (https://ajprinters.pl/reklamacje/), Regulamin zwrotów (https://ajprinters.pl/content/12-zwroty), Odstąpienie od umowy (https://ajprinters.pl/odstapienie-od-umowy/), Formularz odstąpienia (/pliki/dokumenty/formularz-odstapienia-aj-printers.pdf), Informacja o zagrożeniach (https://ajprinters.pl/informacja-o-zagrozeniach/), Warunki gwarancji produktów THI (https://ajprinters.pl/warunki-gwarancji-produktow-thi/).
+5. Dokumenty powiązane: Polityka prywatności i cookies (https://ajprinters.pl/content/14-polityka-prywatnosci), Reklamacje (https://ajprinters.pl/content/13-reklamacje), Regulamin zwrotów (https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow), Odstąpienie od umowy (https://ajprinters.pl/content/18-odstapienie-od-umowy), Formularz odstąpienia (/pliki/dokumenty/formularz-odstapienia-aj-printers.pdf), Informacja o zagrożeniach (https://ajprinters.pl/content/19-informacja-o-zagrozeniach), Warunki gwarancji produktów THI (https://ajprinters.pl/content/20-warunki-gwarancji-produktow-thi).
 
 § 2. Definicje
 1. Sprzedawca - aj printers Anna Jaros-Kucińska.
@@ -23,8 +23,8 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 1. Za pośrednictwem Sklepu Sprzedawca świadczy usługi elektroniczne polegające w szczególności na: udostępnianiu treści Sklepu, prowadzeniu Konta, formularzy kontaktowych i zamówieniowych, koszyka oraz newslettera, jeżeli jest dostępny.
 2. Do korzystania ze Sklepu niezbędne są: urządzenie z dostępem do Internetu, aktualna przeglądarka internetowa obsługująca HTTPS, JavaScript i cookies oraz aktywne konto poczty elektronicznej.
 3. Klient jest zobowiązany korzystać ze Sklepu zgodnie z prawem, dobrymi obyczajami i Regulaminem, w szczególności nie dostarczać treści bezprawnych, nie naruszać praw osób trzecich i nie podejmować działań zakłócających pracę Sklepu.
-4. Informacja o szczególnych zagrożeniach związanych z usługami elektronicznymi jest dostępna w dokumencie Informacja o zagrożeniach (https://ajprinters.pl/informacja-o-zagrozeniach/).
-5. Informacje o plikach cookies są dostępne w Polityce prywatności i cookies (https://ajprinters.pl/polityka-prywatnosci/).
+4. Informacja o szczególnych zagrożeniach związanych z usługami elektronicznymi jest dostępna w dokumencie Informacja o zagrożeniach (https://ajprinters.pl/content/19-informacja-o-zagrozeniach).
+5. Informacje o plikach cookies są dostępne w Polityce prywatności i cookies (https://ajprinters.pl/content/14-polityka-prywatnosci).
 
 § 4. Konto Klienta
 1. Założenie Konta jest dobrowolne i bezpłatne.
@@ -62,36 +62,36 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 3. Termin realizacji Zamówienia wskazywany jest przy Produkcie albo w trakcie składania Zamówienia. W przypadku Produktów personalizowanych termin może być liczony od dnia zaksięgowania płatności, dostarczenia kompletnych materiałów i/lub akceptacji projektu.
 4. W przypadku Konsumenta i Przedsiębiorcy na prawach konsumenta ryzyko przypadkowej utraty lub uszkodzenia Produktu przechodzi na Klienta z chwilą jego wydania Klientowi albo osobie przez niego wskazanej, innej niż przewoźnik wybrany samodzielnie przez Klienta poza sposobami dostawy oferowanymi przez Sprzedawcę.
 5. W przypadku Klienta niebędącego Konsumentem ani Przedsiębiorcą na prawach konsumenta ryzyko przypadkowej utraty lub uszkodzenia Produktu przechodzi na Klienta z chwilą wydania Produktu przewoźnikowi, chyba że strony uzgodniły inaczej.
-6. Przy odbiorze przesyłki Klient powinien sprawdzić stan opakowania. W razie uszkodzeń należy postępować zgodnie z dokumentem Reklamacje (https://ajprinters.pl/reklamacje/) i sporządzić protokół szkody u przewoźnika.
+6. Przy odbiorze przesyłki Klient powinien sprawdzić stan opakowania. W razie uszkodzeń należy postępować zgodnie z dokumentem Reklamacje (https://ajprinters.pl/content/13-reklamacje) i sporządzić protokół szkody u przewoźnika.
 7. W przypadku dostawy do automatu paczkowego, paczkomatu albo punktu odbioru Klient powinien sprawdzić stan przesyłki niezwłocznie po jej odbiorze. W razie stwierdzenia uszkodzenia, naruszenia opakowania, zalania, zgniecenia lub braków Klient powinien wykonać dokumentację zdjęciową oraz zgłosić szkodę zgodnie z procedurą właściwego przewoźnika, a następnie przekazać zgłoszenie aj printers wraz z dokumentacją.
-8. Szczegółowe zasady postępowania przy przesyłkach uszkodzonych, w tym odebranych z automatów paczkowych, paczkomatów i punktów odbioru, opisuje dokument Reklamacje (https://ajprinters.pl/reklamacje/).
+8. Szczegółowe zasady postępowania przy przesyłkach uszkodzonych, w tym odebranych z automatów paczkowych, paczkomatów i punktów odbioru, opisuje dokument Reklamacje (https://ajprinters.pl/content/13-reklamacje).
 
 § 9. Reklamacje, niezgodność towaru z umową i gwarancje
 1. Sprzedawca odpowiada wobec Konsumenta i Przedsiębiorcy na prawach konsumenta za brak zgodności Produktu z umową na zasadach wynikających z obowiązujących przepisów.
 2. Reklamację można złożyć e-mailem na adres sklep@ajprinters.pl albo pisemnie na adres Sprzedawcy: Ziewanice 11, 95-015 Głowno.
 3. Reklamacja powinna zawierać co najmniej: dane Klienta, numer Zamówienia, opis problemu, żądanie Klienta oraz dokumentację umożliwiającą ocenę zgłoszenia, np. zdjęcia uszkodzeń, opakowania, etykiety przewozowej lub wydruki testowe.
 4. Sprzedawca ustosunkuje się do reklamacji Konsumenta w terminie 14 dni od jej otrzymania, o ile przepisy prawa nie przewidują innego terminu.
-5. Szczegółowa procedura reklamacyjna, w tym procedura dla szkód transportowych i linki do protokołów przewoźników, znajduje się w dokumencie Reklamacje (https://ajprinters.pl/reklamacje/).
+5. Szczegółowa procedura reklamacyjna, w tym procedura dla szkód transportowych i linki do protokołów przewoźników, znajduje się w dokumencie Reklamacje (https://ajprinters.pl/content/13-reklamacje).
 6. Jeżeli Produkt jest objęty gwarancją producenta, dostawcy, importera, dystrybutora lub gwaranta, jej warunki określa dokument gwarancyjny, opis Produktu albo informacja gwaranta. Uprawnienia z gwarancji są niezależne od ustawowych praw Klienta.
-7. Dla produktów pochodzących z oferty THI Sp. z o.o. Sp.k. zastosowanie mogą mieć dodatkowe warunki opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (https://ajprinters.pl/warunki-gwarancji-produktow-thi/).
+7. Dla produktów pochodzących z oferty THI Sp. z o.o. Sp.k. zastosowanie mogą mieć dodatkowe warunki opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (https://ajprinters.pl/content/20-warunki-gwarancji-produktow-thi).
 
 § 10. Prawo odstąpienia od umowy
 1. Konsument oraz Przedsiębiorca na prawach konsumenta mogą odstąpić od umowy zawartej na odległość w terminie 14 dni bez podania przyczyny, chyba że zachodzi ustawowy wyjątek od prawa odstąpienia.
-2. Szczegółowe pouczenie o prawie odstąpienia zawiera dokument Odstąpienie od umowy (https://ajprinters.pl/odstapienie-od-umowy/). Formularz odstąpienia jest dostępny w dokumencie Formularz odstąpienia (/pliki/dokumenty/formularz-odstapienia-aj-printers.pdf).
+2. Szczegółowe pouczenie o prawie odstąpienia zawiera dokument Odstąpienie od umowy (https://ajprinters.pl/content/18-odstapienie-od-umowy). Formularz odstąpienia jest dostępny w dokumencie Formularz odstąpienia (/pliki/dokumenty/formularz-odstapienia-aj-printers.pdf).
 3. Prawo odstąpienia nie przysługuje w przypadkach określonych w art. 38 ustawy o prawach konsumenta, w szczególności w odniesieniu do Produktów personalizowanych, wykonanych według specyfikacji Klienta lub służących zaspokojeniu jego zindywidualizowanych potrzeb.
 
 § 11. Zwroty inne niż odstąpienie ustawowe
-1. Zwroty wynikające z nadwyżki ilościowej, omyłkowej dostawy lub zwroty dobrowolne za zgodą Sprzedawcy odbywają się zgodnie z Regulaminem zwrotów (https://ajprinters.pl/content/12-zwroty).
+1. Zwroty wynikające z nadwyżki ilościowej, omyłkowej dostawy lub zwroty dobrowolne za zgodą Sprzedawcy odbywają się zgodnie z Regulaminem zwrotów (https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow).
 2. Regulamin zwrotów nie ogranicza praw Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z przepisów o odstąpieniu od umowy, reklamacji lub niezgodności towaru z umową.
 
 § 12. Newsletter i komunikacja elektroniczna
 1. Zapis do newslettera jest dobrowolny i odbywa się na podstawie zgody.
 2. Użytkownik może w każdym czasie wycofać zgodę i zrezygnować z newslettera poprzez link w wiadomości e-mail albo kontakt ze Sprzedawcą.
-3. Szczegółowe zasady przetwarzania danych osobowych określa Polityka prywatności i cookies (https://ajprinters.pl/polityka-prywatnosci/).
+3. Szczegółowe zasady przetwarzania danych osobowych określa Polityka prywatności i cookies (https://ajprinters.pl/content/14-polityka-prywatnosci).
 
 § 13. Ochrona danych osobowych
 1. Administratorem danych osobowych jest aj printers Anna Jaros-Kucińska.
-2. Zasady przetwarzania danych, w tym cele, podstawy prawne, odbiorcy, okresy przechowywania oraz prawa osób, których dane dotyczą, opisuje Polityka prywatności i cookies (https://ajprinters.pl/polityka-prywatnosci/).
+2. Zasady przetwarzania danych, w tym cele, podstawy prawne, odbiorcy, okresy przechowywania oraz prawa osób, których dane dotyczą, opisuje Polityka prywatności i cookies (https://ajprinters.pl/content/14-polityka-prywatnosci).
 
 § 14. Pozasądowe sposoby rozwiązywania sporów
 1. Konsument może skorzystać z pozasądowych sposobów rozwiązywania sporów konsumenckich, w szczególności z pomocy powiatowego lub miejskiego rzecznika konsumentów, organizacji konsumenckich, mediacji albo stałych sądów polubownych.

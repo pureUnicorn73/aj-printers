@@ -20,12 +20,12 @@ Linki do PDF powinny otwierac sie w nowej karcie.
 | `/polityka-prywatnosci/` | `txt/polityka-prywatnosci-aj-printers.txt` | `/pliki/dokumenty/polityka-prywatnosci-aj-printers.pdf` |
 | `/obowiazek-informacyjny/` | `txt/obowiazek-informacyjny-aj-printers.txt` | `/pliki/dokumenty/obowiazek-informacyjny-aj-printers.pdf` |
 | `/reklamacje/` | `txt/reklamacje-aj-printers.txt` | `/pliki/dokumenty/reklamacje-aj-printers.pdf` |
-| `https://ajprinters.pl/content/12-zwroty` | `txt/regulamin-zwrotow-aj-printers.txt` | `/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf` |
+| `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow` | `txt/regulamin-zwrotow-aj-printers.txt` | `/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf` |
 | `/odstapienie-od-umowy/` | `txt/odstapienie-od-umowy-aj-printers.txt` | `/pliki/dokumenty/odstapienie-od-umowy-aj-printers.pdf` |
 | `/informacja-o-zagrozeniach/` | `txt/informacja-o-zagrozeniach-aj-printers.txt` | `/pliki/dokumenty/informacja-o-zagrozeniach-aj-printers.pdf` |
 | `/warunki-gwarancji-produktow-thi/` | `txt/warunki-gwarancji-produktow-thi-aj-printers.txt` | `/pliki/dokumenty/warunki-gwarancji-produktow-thi-aj-printers.pdf` |
 
-Decyzja URL: strona zwrotow ma dzialac pod adresem `https://ajprinters.pl/content/12-zwroty`.
+Decyzja URL: strona zwrotow ma dzialac pod adresem `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow`.
 
 ## Pliki PDF do publikacji
 
@@ -147,7 +147,7 @@ Dodatkowa informacja:
 
 ## Decyzje wdrozeniowe
 
-- Strona zwrotow: `https://ajprinters.pl/content/12-zwroty`.
+- Strona zwrotow: `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow`.
 - Formularz reklamacyjny linkujemy na stronie `Reklamacje` w sekcji formularzy i protokolow do pobrania; jezeli CMS pozwala, dodajemy tez przycisk lub box w tresci procedury reklamacyjnej.
 - Publikujemy wszystkie protokoly przewoznikow dostepne w paczce: DHL, DPD, FedEx, GEODIS, GLS, InPost, Raben, UPS.
 - W tresciach publikowanych w CMS uzywamy polskich znakow.

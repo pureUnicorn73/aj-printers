@@ -107,7 +107,7 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 
 § 10. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
 1. aj printers sprzedaje również produkty pochodzące z oferty dostawcy THI Sp. z o.o. Sp.k., w tym produkty marek JetWorld, CartridgeWeb, WOX, Oxe, Aeropack, Assima oraz produkty bez marki własnej (BLK), o ile są dostępne w ofercie Sklepu.
-2. Warunki gwarancji dla produktów THI zostały opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (https://ajprinters.pl/warunki-gwarancji-produktow-thi/).
+2. Warunki gwarancji dla produktów THI zostały opisane w dokumencie Warunki gwarancji produktów THI sprzedawanych przez aj printers (https://ajprinters.pl/content/20-warunki-gwarancji-produktow-thi).
 3. Podstawowe okresy gwarancji produktów THI:
    a) tonery i moduły bębna JetWorld i CartridgeWeb zakupione po 01.01.2018 r. - gwarancja dożywotnia;
    b) tusze JetWorld i WOX zakupione po 01.01.2018 r. - gwarancja dożywotnia;

@@ -1,42 +1,23 @@
-# Linki CMS do potwierdzenia w Presta
+# Potwierdzone linki CMS w Presta
 
 ## Cel
 
-Sprawdzic, czy linki wewnetrzne w dokumentach CMS prowadza do faktycznych podstron sklepu aj printers, a nie do przypadkowych stron albo adresow 404.
+Lista docelowych adresow CMS uzywanych w dokumentach aj printers.
 
 ## Potwierdzone
 
-- Zwroty: `https://ajprinters.pl/content/12-zwroty`
+- Zwroty: `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow`
 - Przed zakupem: `https://ajprinters.pl/content/21-przed-zakupem`
+- Reklamacje: `https://ajprinters.pl/content/13-reklamacje`
+- Polityka prywatnosci: `https://ajprinters.pl/content/14-polityka-prywatnosci`
+- Regulamin: `https://ajprinters.pl/content/15-regulamin`
+- Obowiazek informacyjny: `https://ajprinters.pl/content/16-obowiazek-informacyjny`
+- Odstapienie od umowy: `https://ajprinters.pl/content/18-odstapienie-od-umowy`
+- Informacja o zagrozeniach: `https://ajprinters.pl/content/19-informacja-o-zagrozeniach`
+- Warunki gwarancji produktow THI: `https://ajprinters.pl/content/20-warunki-gwarancji-produktow-thi`
 
-## Do potwierdzenia
+## Zaktualizowane pliki
 
-Potrzebne sa docelowe adresy URL tych podstron:
-
-- Regulamin
-- Polityka prywatnosci
-- Reklamacje
-- Odstapienie od umowy
-- Informacja o zagrozeniach
-- Warunki gwarancji produktow THI
-
-## Obecne adresy uzyte roboczo w plikach HTML
-
-- `https://ajprinters.pl/regulamin/`
-- `https://ajprinters.pl/polityka-prywatnosci/`
-- `https://ajprinters.pl/reklamacje/`
-- `https://ajprinters.pl/odstapienie-od-umowy/`
-- `https://ajprinters.pl/informacja-o-zagrozeniach/`
-- `https://ajprinters.pl/warunki-gwarancji-produktow-thi/`
-
-## Co zrobic po potwierdzeniu
-
-Po otrzymaniu prawidlowych adresow z Presta podmienic linki w plikach:
-
-- `cms-html/regulamin-aj-printers.html`
-- `cms-html/polityka-prywatnosci-aj-printers.html`
-- `cms-html/obowiazek-informacyjny-aj-printers.html`
-- `cms-html/regulamin-zwrotow-aj-printers.html`
-- `cms-html/reklamacje-aj-printers.html`
+Linki zostaly podmienione w plikach CMS HTML oraz TXT uzywanych jako zrodla tresci.
 
 Nie zmieniac linkow PDF w `/pliki/dokumenty/` i `/pliki/protokoly-szkody/`, jezeli dzialaja publicznie.

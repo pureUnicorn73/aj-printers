@@ -22,7 +22,7 @@ Pliki protokołów szkody przewoźników do umieszczenia na stronie i podlinkowa
 
 Zalecane adresy URL na stronie:
 /reklamacje/ -> treść HTML/TXT + przycisk PDF: /pliki/dokumenty/reklamacje-aj-printers.pdf
-https://ajprinters.pl/content/12-zwroty -> treść HTML/TXT + przycisk PDF: /pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf
+https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow -> treść HTML/TXT + przycisk PDF: /pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf
 /odstapienie-od-umowy/ -> treść HTML/TXT + przycisk PDF: /pliki/dokumenty/odstapienie-od-umowy-aj-printers.pdf + formularz: /pliki/dokumenty/formularz-odstapienia-aj-printers.pdf
 /polityka-prywatnosci/ -> treść HTML/TXT + przycisk PDF: /pliki/dokumenty/polityka-prywatnosci-aj-printers.pdf
 /regulamin/ -> treść HTML/TXT + przycisk PDF: /pliki/dokumenty/regulamin-aj-printers.pdf
