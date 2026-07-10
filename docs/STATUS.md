@@ -12,7 +12,10 @@ zostaje do pozniejszego recznego uzupelnienia.
 
 ## Repo i git
 
-Repo: `C:\Users\DELL\Documents\prawne\aj-printers`
+Repozytorium dokumentacji: `aj-printers` w bieżącym katalogu roboczym.
+
+Kod sklepu znajduje się w osobnym repozytorium `baza-presta`, a `projekt`
+pozostaje pustym repozytorium rezerwowym.
 
 Ostatnie istotne commity:
 
@@ -50,22 +53,25 @@ Przed zakonczeniem pracy repo bylo czyste.
 
 ## Pliki CMS HTML
 
-Glowne pliki do wklejania w CMS:
+Glowne pliki do wklejania w CMS znajdują się w `content/cms/pages/`:
 
-- `cms-html/regulamin-aj-printers.html`
-- `cms-html/polityka-prywatnosci-aj-printers.html`
-- `cms-html/obowiazek-informacyjny-aj-printers.html`
-- `cms-html/reklamacje-aj-printers.html`
-- `cms-html/regulamin-zwrotow-aj-printers.html`
-- `cms-html/odstapienie-od-umowy-aj-printers.html`
-- `cms-html/informacja-o-zagrozeniach-aj-printers.html`
-- `cms-html/warunki-gwarancji-produktow-thi-aj-printers.html`
-- `cms-html/wazne-informacje-przed-zakupem.html`
-- `cms-html/komunikat-produkt-footer-pionowy.html`
+- `regulamin.html`
+- `polityka-prywatnosci.html`
+- `obowiazek-informacyjny.html`
+- `reklamacje.html`
+- `zwroty-regulamin-zwrotow.html`
+- `odstapienie-od-umowy.html`
+- `informacja-o-zagrozeniach.html`
+- `warunki-gwarancji-produktow-thi.html`
+- `przed-zakupem.html`
+
+Blok boczny znajduje się w:
+
+- `content/cms/components/komunikat-produkt-footer-pionowy.html`
 
 Plik przygotowany, ale przeniesiony do osobnego projektu:
 
-- `cms-html/komunikat-koszyk-dostawa.html`
+- `content/cms/components/komunikat-koszyk-dostawa.html`
 
 ## Najwazniejsze poprawki merytoryczne
 

@@ -1,0 +1,103 @@
+﻿<div class="xte-div block-wrapper">
+<h1 class="xte-h">
+    Odstąpienie od umowy
+</h1>
+<p class="xte-p">
+    Data obowiązywania: [do uzupełnienia przed publikacją]
+</p>
+<p class="xte-p">
+    <a href="/pliki/dokumenty/odstapienie-od-umowy-aj-printers.pdf" target="_blank"><strong>Pobierz PDF</strong></a>
+</p>
+<h2 class="xte-h">
+    § 1. Prawo odstąpienia
+</h2>
+<p class="xte-p">
+    1. Konsument oraz Przedsiębiorca na prawach konsumenta, którzy zawarli umowę sprzedaży na odległość za pośrednictwem sklepu ajprinters.pl, mają prawo odstąpić od umowy w terminie 14 dni bez podania przyczyny, chyba że zachodzi ustawowy wyjątek od prawa odstąpienia.
+</p>
+<p class="xte-p">
+    2. Termin do odstąpienia wygasa po upływie 14 dni od dnia, w którym Klient objął Produkt w posiadanie albo w którym osoba trzecia wskazana przez Klienta, inna niż przewoźnik, objęła Produkt w posiadanie.
+</p>
+<p class="xte-p">
+    3. W przypadku umowy obejmującej wiele Produktów dostarczanych osobno, partiami lub w częściach, termin liczy się od objęcia w posiadanie ostatniego Produktu, partii lub części.
+</p>
+<h2 class="xte-h">
+    § 2. Jak odstąpić od umowy
+</h2>
+<p class="xte-p">
+    1. Aby skorzystać z prawa odstąpienia, należy poinformować Sprzedawcę o decyzji o odstąpieniu w drodze jednoznacznego oświadczenia.
+</p>
+<p class="xte-p">
+    2. Oświadczenie można przesłać:
+</p>
+<p class="xte-p">
+    a) e-mailem na adres: sklep@ajprinters.pl;
+</p>
+<p class="xte-p">
+    b) listownie na adres: aj printers Anna Jaros-Kucińska, Ziewanice 11, 95-015 Głowno.
+</p>
+<p class="xte-p">
+    3. Można skorzystać z formularza odstąpienia od umowy (/pliki/dokumenty/formularz-odstapienia-aj-printers.pdf), ale nie jest to obowiązkowe.
+</p>
+<p class="xte-p">
+    4. Do zachowania terminu wystarczy wysłanie oświadczenia przed jego upływem.
+</p>
+<h2 class="xte-h">
+    § 3. Skutki odstąpienia
+</h2>
+<p class="xte-p">
+    1. W przypadku skutecznego odstąpienia umowę uważa się za niezawartą.
+</p>
+<p class="xte-p">
+    2. Sprzedawca zwróci wszystkie otrzymane płatności, w tym koszty dostarczenia Produktu, nie później niż w terminie 14 dni od dnia otrzymania oświadczenia o odstąpieniu.
+</p>
+<p class="xte-p">
+    3. Sprzedawca może wstrzymać się ze zwrotem płatności do czasu otrzymania Produktu albo dostarczenia dowodu jego odesłania, w zależności od tego, które zdarzenie nastąpi wcześniej.
+</p>
+<p class="xte-p">
+    4. Zwrot płatności nastąpi przy użyciu takiego samego sposobu płatności, jakiego użył Klient, chyba że Klient wyraźnie zgodzi się na inny sposób zwrotu. Klient nie poniesie opłat za zwrot płatności.
+</p>
+<p class="xte-p">
+    5. Jeżeli Klient wybrał sposób dostawy inny niż najtańszy zwykły sposób dostawy oferowany przez Sprzedawcę, Sprzedawca nie jest zobowiązany do zwrotu dodatkowych kosztów.
+</p>
+<h2 class="xte-h">
+    § 4. Zwrot Produktu
+</h2>
+<p class="xte-p">
+    1. Klient ma obowiązek odesłać albo przekazać Produkt niezwłocznie, nie później niż w terminie 14 dni od dnia, w którym poinformował Sprzedawcę o odstąpieniu.
+</p>
+<p class="xte-p">
+    2. Produkt należy odesłać na adres: aj printers Anna Jaros-Kucińska, Ziewanice 11, 95-015 Głowno, z dopiskiem „Odstąpienie”.
+</p>
+<p class="xte-p">
+    3. Bezpośredni koszt zwrotu Produktu ponosi Klient, chyba że Sprzedawca zgodził się go ponieść albo nie poinformował Klienta o obowiązku poniesienia tego kosztu.
+</p>
+<p class="xte-p">
+    4. Klient odpowiada za zmniejszenie wartości Produktu wynikające z korzystania z niego w sposób wykraczający poza konieczny do stwierdzenia charakteru, cech i funkcjonowania Produktu.
+</p>
+<h2 class="xte-h">
+    § 5. Wyłączenia prawa odstąpienia
+</h2>
+<p class="xte-p">
+    Prawo odstąpienia od umowy nie przysługuje w przypadkach wskazanych w art. 38 ustawy o prawach konsumenta, w szczególności w odniesieniu do umowy:
+</p>
+<p class="xte-p">
+    1. w której przedmiotem świadczenia jest Produkt nieprefabrykowany, wyprodukowany według specyfikacji Klienta albo służący zaspokojeniu jego zindywidualizowanych potrzeb, w tym wydruki personalizowane, projekty graficzne i produkty wykonywane na indywidualne zamówienie;
+</p>
+<p class="xte-p">
+    2. o świadczenie usług, za które Klient jest zobowiązany do zapłaty ceny, jeżeli Sprzedawca wykonał usługę w pełni za wyraźną i uprzednią zgodą Klienta, który został poinformowany o utracie prawa odstąpienia po spełnieniu świadczenia;
+</p>
+<p class="xte-p">
+    3. o dostarczanie treści cyfrowych niedostarczanych na nośniku materialnym, jeżeli spełnianie świadczenia rozpoczęło się za zgodą Klienta i po poinformowaniu go o utracie prawa odstąpienia;
+</p>
+<p class="xte-p">
+    4. w której przedmiotem świadczenia jest Produkt dostarczany w zapieczętowanym opakowaniu, którego po otwarciu nie można zwrócić ze względów higienicznych lub ochrony zdrowia;
+</p>
+<p class="xte-p">
+    5. w której przedmiotem świadczenia są nagrania, programy komputerowe lub inne towary dostarczone w zapieczętowanym opakowaniu, jeżeli opakowanie zostało otwarte po dostawie.
+</p>
+<p class="xte-p">
+    <a href="/pliki/dokumenty/formularz-odstapienia-aj-printers.pdf" target="_blank"><strong>Pobierz formularz odstąpienia od umowy PDF</strong></a>
+</p>
+</div>
+
+

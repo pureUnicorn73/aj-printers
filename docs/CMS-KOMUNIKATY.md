@@ -2,16 +2,17 @@
 
 ## Gotowe pliki do CMS
 
-Najbezpieczniej wklejac wersje HTML z encjami z folderu `cms-html`, bo nie zalezy od kodowania edytora CMS:
+Gotowe komponenty znajdują się w folderze `content/cms/components/`:
 
-- `cms-html/komunikat-strona-glowna.html`
-- `cms-html/komunikat-produkt-footer-pionowy.html` - aktualny blok pionowy do `leftColumn` i `leftColumnProduct`
-- `cms-html/wazne-informacje-przed-zakupem.html` - tresc podstrony `https://ajprinters.pl/content/21-przed-zakupem`
-- `cms-html/komunikat-produkt.html`
-- `cms-html/komunikat-materialy-eksploatacyjne.html`
-- `cms-html/komunikat-koszyk-dostawa.html`
-- `cms-html/komunikaty-cms.html` - caly zestaw razem z przykladowym CSS
-- `cms-html/komunikaty-cms.css` - sam CSS, jezeli motyw sklepu ma osobne miejsce na style
+- `komunikat-produkt-footer-pionowy.html` - aktualny blok pionowy do `leftColumn` i `leftColumnProduct`
+- `komunikat-produkt.html`
+- `komunikat-materialy-eksploatacyjne.html`
+- `komunikat-koszyk-dostawa.html`
+- `komunikaty-cms.html` - caly zestaw razem z przykladowym CSS
+- `komunikaty-cms.css` - sam CSS, jezeli motyw sklepu ma osobne miejsce na style
+
+Aktualna podstrona „Przed zakupem” znajduje się w
+`content/cms/pages/przed-zakupem.html`.
 
 ## Zasady stylistyczne
 
@@ -31,12 +32,12 @@ Informacje przed zakupem sa wdrazane jako:
 
 - podstrona CMS: `https://ajprinters.pl/content/21-przed-zakupem`;
 - pionowy blok HTML w hookach Presta: `leftColumn` oraz `leftColumnProduct`;
-- plik do wklejenia w blok boczny: `cms-html/komunikat-produkt-footer-pionowy.html`.
+- plik do wklejenia w blok boczny: `content/cms/components/komunikat-produkt-footer-pionowy.html`.
 
 ## Podstrona "Przed zakupem"
 
 Plik HTML:
-`cms-html/wazne-informacje-przed-zakupem.html`
+`content/cms/pages/przed-zakupem.html`
 
 Naglowek:
 `Wazne informacje przed zakupem`
@@ -55,7 +56,7 @@ Informacje o dostepnosci i terminach realizacji aktualizujemy na biezaco, jednak
 
 ## Starszy wariant HTML na strone glowna
 
-Pliki `cms-html/komunikat-strona-glowna.html`, `cms-html/komunikat-strona-glowna-benefits-bar.html` i `cms-html/komunikat-strona-glowna-krotki-inline.html` zostaja jako warianty robocze, ale aktualnie nie sa wdrazane.
+Pliki `content/cms/components/komunikat-strona-glowna.html`, `komunikat-strona-glowna-benefits-bar.html` i `komunikat-strona-glowna-krotki-inline.html` zostaja jako warianty robocze, ale aktualnie nie sa wdrazane.
 
 ## Karta produktu - komunikat podstawowy
 

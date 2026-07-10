@@ -1,0 +1,121 @@
+﻿<div class="xte-div block-wrapper">
+<h1 class="xte-h">
+    Regulamin zwrotów aj printers
+</h1>
+<p class="xte-p">
+    Data obowiązywania: [do uzupełnienia przed publikacją]
+</p>
+<p class="xte-p">
+    <a href="/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf" target="_blank"><strong>Pobierz PDF</strong></a>
+</p>
+<h2 class="xte-h">
+    § 1. Postanowienia ogólne
+</h2>
+<p class="xte-p">
+    1. Regulamin zwrotów określa zasady zwrotów innych niż ustawowe odstąpienie od umowy oraz innych niż reklamacja z tytułu niezgodności towaru z umową.
+</p>
+<p class="xte-p">
+    2. Regulamin zwrotów nie ogranicza praw Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z przepisów prawa, w szczególności prawa odstąpienia od umowy, reklamacji oraz roszczeń z tytułu niezgodności towaru z umową.
+</p>
+<p class="xte-p">
+    3. W sprawach nieuregulowanych stosuje się Regulamin sklepu aj printers i obowiązujące przepisy prawa.
+</p>
+<h2 class="xte-h">
+    § 2. Zwrot z powodu nadwyżki ilościowej lub niezgodności asortymentowej
+</h2>
+<p class="xte-p">
+    1. Zwrot jest dopuszczalny, gdy Klient otrzymał Produkt w liczbie większej niż wynikająca z Zamówienia albo Produkt inny niż zamówiony.
+</p>
+<p class="xte-p">
+    2. Klient powinien sprawdzić zgodność dostawy z Zamówieniem niezwłocznie po odbiorze.
+</p>
+<p class="xte-p">
+    3. Niezgodność ilościową lub asortymentową należy zgłosić Sprzedawcy niezwłocznie, nie później niż w terminie 48 godzin od odbioru przesyłki, o ile charakter sprawy pozwala na jej wykrycie przy zwykłej weryfikacji dostawy. Termin ten ma charakter organizacyjny i służy sprawnemu wyjaśnieniu rozbieżności; nie ogranicza ustawowego prawa odstąpienia od umowy ani uprawnień z tytułu niezgodności towaru z umową.
+</p>
+<p class="xte-p">
+    4. Zgłoszenie należy przesłać na adres sklep@ajprinters.pl i wskazać: numer Zamówienia, opis niezgodności, zdjęcia Produktu i opakowania oraz dane kontaktowe.
+</p>
+<p class="xte-p">
+    5. Jeżeli zwrot wynika z pomyłki Sprzedawcy, koszty uzgodnionego zwrotu ponosi Sprzedawca.
+</p>
+<h2 class="xte-h">
+    § 3. Zwrot dobrowolny za zgodą Sprzedawcy
+</h2>
+<p class="xte-p">
+    1. Zwrot Produktu z przyczyn innych niż wskazane w § 2 jest możliwy wyłącznie po uprzedniej zgodzie Sprzedawcy i na warunkach każdorazowo uzgodnionych z Klientem.
+</p>
+<p class="xte-p">
+    2. Sprzedawca może odmówić przyjęcia zwrotu, w szczególności gdy Produkt był wykonany na indywidualne zamówienie, jest personalizowany, używany, uszkodzony, niekompletny, ma uszkodzone opakowanie jednostkowe albo zwrot byłby niemożliwy z przyczyn organizacyjnych lub prawnych.
+</p>
+<p class="xte-p">
+    3. Zwrot dobrowolny odbywa się na koszt i ryzyko Klienta, chyba że strony uzgodniły inaczej.
+</p>
+<h2 class="xte-h">
+    § 4. Zgłoszenie zwrotu
+</h2>
+<p class="xte-p">
+    1. Zgłoszenie zwrotu należy wysłać na adres sklep@ajprinters.pl.
+</p>
+<p class="xte-p">
+    2. Zgłoszenie powinno zawierać: numer Zamówienia, nazwę Produktu, ilość, przyczynę zwrotu, zdjęcia Produktu i opakowania oraz dane Klienta.
+</p>
+<p class="xte-p">
+    3. Samo wysłanie zgłoszenia nie oznacza akceptacji zwrotu przez Sprzedawcę.
+</p>
+<p class="xte-p">
+    4. Zwrot można wysłać dopiero po otrzymaniu od Sprzedawcy potwierdzenia przyjęcia zgłoszenia i instrukcji wysyłki.
+</p>
+<h2 class="xte-h">
+    § 5. Warunki przyjęcia zwrotu
+</h2>
+<p class="xte-p">
+    1. Zwracany Produkt powinien być kompletny, nieużywany, nieuszkodzony, czysty, zabezpieczony do transportu i - jeżeli dotyczy - w oryginalnym, nienaruszonym opakowaniu.
+</p>
+<p class="xte-p">
+    2. Paczka powinna zawierać numer zgłoszenia lub numer Zamówienia oraz dane Klienta umożliwiające identyfikację zwrotu.
+</p>
+<p class="xte-p">
+    3. Zwroty wysłane bez wcześniejszej akceptacji Sprzedawcy mogą nie zostać przyjęte.
+</p>
+<p class="xte-p">
+    4. Jeżeli Produkt nie spełnia warunków przyjęcia zwrotu, Sprzedawca może odmówić jego przyjęcia albo odesłać Produkt na koszt Klienta.
+</p>
+<h2 class="xte-h">
+    § 6. Rozliczenie zwrotu
+</h2>
+<p class="xte-p">
+    1. Zwrot rozliczany jest według ceny faktycznie zapłaconej za Produkt.
+</p>
+<p class="xte-p">
+    2. Jeżeli zwrot jest zasadny i zaakceptowany, Sprzedawca dokona odpowiedniego zwrotu płatności albo korekty dokumentu sprzedaży, jeżeli ma to zastosowanie.
+</p>
+<p class="xte-p">
+    3. Koszt pierwotnej dostawy nie podlega zwrotowi przy zwrocie dobrowolnym, chyba że strony uzgodniły inaczej albo obowiązek taki wynika z przepisów prawa.
+</p>
+<h2 class="xte-h">
+    § 7. Zwroty produktów THI
+</h2>
+<p class="xte-p">
+    1. W przypadku produktów pochodzących z oferty dostawcy THI Sp. z o.o. Sp.k. zastosowanie mają również warunki opisane w dokumencie <a href="https://ajprinters.pl/content/20-warunki-gwarancji-produktow-thi"><strong>Warunki gwarancji produktów THI sprzedawanych przez aj printers</strong></a>, o ile dotyczą danego Produktu i nie są sprzeczne z bezwzględnie obowiązującymi przepisami prawa.
+</p>
+<p class="xte-p">
+    2. Produkty THI podlegają zwrotowi w przypadku pomyłki po stronie aj printers, dostawcy albo podmiotu realizującego zamówienie.
+</p>
+<p class="xte-p">
+    3. Zwroty produktów THI z innych przyczyn możliwe są wyłącznie po wcześniejszej zgodzie Sprzedawcy i na warunkach każdorazowo uzgodnionych z Klientem.
+</p>
+<p class="xte-p">
+    4. Zwracany Produkt THI powinien być nieużywany, zapakowany w fabryczne opakowanie, bez dodatkowych naklejek i opisów nienależących do producenta, dostawcy lub aj printers. Opakowanie i Produkt nie mogą być uszkodzone.
+</p>
+<p class="xte-p">
+    5. Zwrotowi co do zasady nie podlegają produkty dostarczone na specjalne zamówienie oraz produkty oryginalne OEM, chyba że obowiązujące przepisy prawa stanowią inaczej albo Sprzedawca wyrazi zgodę na zwrot.
+</p>
+<p class="xte-p">
+    6. Przy zwrocie dobrowolnym produktu THI po upływie 14 dni roboczych od dnia wystawienia faktury Sprzedawca może indywidualnie uzgodnić z Klientem opłatę administracyjną w wysokości 10% wartości netto zwracanego Produktu, nie mniej niż 30 zł, o ile jest to dopuszczalne w danej relacji z Klientem.
+</p>
+<p class="xte-p">
+    7. Opłata administracyjna, o której mowa w ust. 6, dotyczy wyłącznie dobrowolnego zwrotu uzgodnionego indywidualnie poza ustawowym odstąpieniem od umowy, reklamacją oraz roszczeniami z tytułu niezgodności towaru z umową. Opłata nie ma zastosowania, gdy zwrot wynika z pomyłki aj printers, dostawcy albo podmiotu realizującego zamówienie.
+</p>
+</div>
+
+

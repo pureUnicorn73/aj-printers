@@ -40,7 +40,7 @@ Informacje przed zakupem sa realizowane przez:
 
 Plik z blokiem:
 
-`cms-html/komunikat-produkt-footer-pionowy.html`
+`content/cms/components/komunikat-produkt-footer-pionowy.html`
 
 ## Koszyk / dostawa
 
@@ -48,7 +48,7 @@ Komunikat koszyka/dostawy jest przygotowany, ale jego wdrozenie zostalo przenies
 
 Plik:
 
-`cms-html/komunikat-koszyk-dostawa.html`
+`content/cms/components/komunikat-koszyk-dostawa.html`
 
 Tresc:
 

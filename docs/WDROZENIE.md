@@ -16,47 +16,30 @@ Linki do PDF powinny otwierac sie w nowej karcie.
 
 | Podstrona | Tresc z pliku TXT | Przycisk "Pobierz PDF" |
 | --- | --- | --- |
-| `/regulamin/` | `txt/regulamin-aj-printers.txt` | `/pliki/dokumenty/regulamin-aj-printers.pdf` |
-| `/polityka-prywatnosci/` | `txt/polityka-prywatnosci-aj-printers.txt` | `/pliki/dokumenty/polityka-prywatnosci-aj-printers.pdf` |
-| `/obowiazek-informacyjny/` | `txt/obowiazek-informacyjny-aj-printers.txt` | `/pliki/dokumenty/obowiazek-informacyjny-aj-printers.pdf` |
-| `/reklamacje/` | `txt/reklamacje-aj-printers.txt` | `/pliki/dokumenty/reklamacje-aj-printers.pdf` |
-| `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow` | `txt/regulamin-zwrotow-aj-printers.txt` | `/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf` |
-| `/odstapienie-od-umowy/` | `txt/odstapienie-od-umowy-aj-printers.txt` | `/pliki/dokumenty/odstapienie-od-umowy-aj-printers.pdf` |
-| `/informacja-o-zagrozeniach/` | `txt/informacja-o-zagrozeniach-aj-printers.txt` | `/pliki/dokumenty/informacja-o-zagrozeniach-aj-printers.pdf` |
-| `/warunki-gwarancji-produktow-thi/` | `txt/warunki-gwarancji-produktow-thi-aj-printers.txt` | `/pliki/dokumenty/warunki-gwarancji-produktow-thi-aj-printers.pdf` |
+| `/regulamin/` | `content/cms/pages/regulamin.html` | `/pliki/dokumenty/regulamin-aj-printers.pdf` |
+| `/polityka-prywatnosci/` | `content/cms/pages/polityka-prywatnosci.html` | `/pliki/dokumenty/polityka-prywatnosci-aj-printers.pdf` |
+| `/obowiazek-informacyjny/` | `content/cms/pages/obowiazek-informacyjny.html` | `/pliki/dokumenty/obowiazek-informacyjny-aj-printers.pdf` |
+| `/reklamacje/` | `content/cms/pages/reklamacje.html` | `/pliki/dokumenty/reklamacje-aj-printers.pdf` |
+| `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow` | `content/cms/pages/zwroty-regulamin-zwrotow.html` | `/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf` |
+| `/odstapienie-od-umowy/` | `content/cms/pages/odstapienie-od-umowy.html` | `/pliki/dokumenty/odstapienie-od-umowy-aj-printers.pdf` |
+| `/informacja-o-zagrozeniach/` | `content/cms/pages/informacja-o-zagrozeniach.html` | `/pliki/dokumenty/informacja-o-zagrozeniach-aj-printers.pdf` |
+| `/warunki-gwarancji-produktow-thi/` | `content/cms/pages/warunki-gwarancji-produktow-thi.html` | `/pliki/dokumenty/warunki-gwarancji-produktow-thi-aj-printers.pdf` |
 
 Decyzja URL: strona zwrotow ma dzialac pod adresem `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow`.
 
 ## Pliki PDF do publikacji
 
-Gotowa paczka plikow publicznych znajduje sie w:
-- `wdrozenie/pliki/dokumenty/`
-- `wdrozenie/pliki/protokoly-szkody/`
+Aktualną paczkę tworzy polecenie
+`powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-release.ps1`.
+Wynik pojawia się w `dist/aj-printers-wdrozenie.zip`.
 
-Gotowe archiwum do przekazania:
-- `wdrozenie-aj-printers-2026-07-06.zip`
+Poprzednia paczka z 6 lipca 2026 r. znajduje się wyłącznie w `archive/releases/`.
 
 Do `/pliki/dokumenty/`:
-- `pdf/regulamin-aj-printers.pdf`
-- `pdf/polityka-prywatnosci-aj-printers.pdf`
-- `pdf/obowiazek-informacyjny-aj-printers.pdf`
-- `pdf/reklamacje-aj-printers.pdf`
-- `pdf/regulamin-zwrotow-aj-printers.pdf`
-- `pdf/odstapienie-od-umowy-aj-printers.pdf`
-- `pdf/informacja-o-zagrozeniach-aj-printers.pdf`
-- `pdf/warunki-gwarancji-produktow-thi-aj-printers.pdf`
-- `pdf/formularz-odstapienia-aj-printers.pdf`
-- `pdf/formularz-reklamacyjny-aj-printers.pdf`
+- pliki z `public/documents/`
 
 Do `/pliki/protokoly-szkody/`:
-- `zalaczniki/protokol-szkody-dhl.pdf`
-- `zalaczniki/protokol-szkody-dpd.pdf`
-- `zalaczniki/protokol-szkody-fedex.pdf`
-- `zalaczniki/protokol-szkody-geodis.pdf`
-- `zalaczniki/protokol-szkody-gls.pdf`
-- `zalaczniki/protokol-szkody-inpost.pdf`
-- `zalaczniki/protokol-szkody-raben.pdf`
-- `zalaczniki/protokol-szkody-ups.pdf`
+- pliki z `public/damage-reports/`
 
 ## Sekcja na stronie Reklamacje
 
@@ -91,10 +74,10 @@ Podstrona CMS:
 `https://ajprinters.pl/content/21-przed-zakupem`
 
 Tresc podstrony:
-`cms-html/wazne-informacje-przed-zakupem.html`
+`content/cms/pages/przed-zakupem.html`
 
 Blok boczny:
-`cms-html/komunikat-produkt-footer-pionowy.html`
+`content/cms/components/komunikat-produkt-footer-pionowy.html`
 
 Hooki Presta:
 - `leftColumn`
@@ -128,7 +111,7 @@ Dodatkowa informacja:
 `Termin realizacji moze zalezec od dostepnosci produktu u dostawcy oraz pracy przewoznika. W razie zmian skontaktujemy sie z Toba przed realizacja zamowienia.`
 
 Status:
-przygotowany jako plik `cms-html/komunikat-koszyk-dostawa.html`, ale wdrozenie komunikatu w koszyku / przy dostawie zostaje przeniesione do osobnego projektu.
+przygotowany jako plik `content/cms/components/komunikat-koszyk-dostawa.html`, ale wdrozenie komunikatu w koszyku / przy dostawie zostaje przeniesione do osobnego projektu.
 
 ## Wskazowki stylistyczne
 

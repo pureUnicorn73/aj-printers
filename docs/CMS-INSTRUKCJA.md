@@ -2,9 +2,11 @@
 
 ## 1. Najpierw wrzuć pliki PDF
 
-Użyj ZIP-a:
+Utwórz aktualny ZIP poleceniem
+`powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-release.ps1`,
+a następnie użyj:
 
-`wdrozenie-aj-printers-2026-07-06.zip`
+`dist/aj-printers-wdrozenie.zip`
 
 Po rozpakowaniu wrzuć folder `pliki` tak, żeby na stronie działały adresy:
 
@@ -22,14 +24,14 @@ Utwórz albo uzupełnij te strony:
 
 | Strona w CMS | Wklej treść z pliku | Przycisk Pobierz PDF |
 | --- | --- | --- |
-| `/regulamin/` | `txt/regulamin-aj-printers.txt` | `/pliki/dokumenty/regulamin-aj-printers.pdf` |
-| `/polityka-prywatnosci/` | `txt/polityka-prywatnosci-aj-printers.txt` | `/pliki/dokumenty/polityka-prywatnosci-aj-printers.pdf` |
-| `/obowiazek-informacyjny/` | `txt/obowiazek-informacyjny-aj-printers.txt` | `/pliki/dokumenty/obowiazek-informacyjny-aj-printers.pdf` |
-| `/reklamacje/` | `txt/reklamacje-aj-printers.txt` | `/pliki/dokumenty/reklamacje-aj-printers.pdf` |
-| `https://ajprinters.pl/content/12-zwroty` | `txt/regulamin-zwrotow-aj-printers.txt` | `/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf` |
-| `/odstapienie-od-umowy/` | `txt/odstapienie-od-umowy-aj-printers.txt` | `/pliki/dokumenty/odstapienie-od-umowy-aj-printers.pdf` |
-| `/informacja-o-zagrozeniach/` | `txt/informacja-o-zagrozeniach-aj-printers.txt` | `/pliki/dokumenty/informacja-o-zagrozeniach-aj-printers.pdf` |
-| `/warunki-gwarancji-produktow-thi/` | `txt/warunki-gwarancji-produktow-thi-aj-printers.txt` | `/pliki/dokumenty/warunki-gwarancji-produktow-thi-aj-printers.pdf` |
+| `/regulamin/` | `content/cms/pages/regulamin.html` | `/pliki/dokumenty/regulamin-aj-printers.pdf` |
+| `/polityka-prywatnosci/` | `content/cms/pages/polityka-prywatnosci.html` | `/pliki/dokumenty/polityka-prywatnosci-aj-printers.pdf` |
+| `/obowiazek-informacyjny/` | `content/cms/pages/obowiazek-informacyjny.html` | `/pliki/dokumenty/obowiazek-informacyjny-aj-printers.pdf` |
+| `/reklamacje/` | `content/cms/pages/reklamacje.html` | `/pliki/dokumenty/reklamacje-aj-printers.pdf` |
+| `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow` | `content/cms/pages/zwroty-regulamin-zwrotow.html` | `/pliki/dokumenty/regulamin-zwrotow-aj-printers.pdf` |
+| `/odstapienie-od-umowy/` | `content/cms/pages/odstapienie-od-umowy.html` | `/pliki/dokumenty/odstapienie-od-umowy-aj-printers.pdf` |
+| `/informacja-o-zagrozeniach/` | `content/cms/pages/informacja-o-zagrozeniach.html` | `/pliki/dokumenty/informacja-o-zagrozeniach-aj-printers.pdf` |
+| `/warunki-gwarancji-produktow-thi/` | `content/cms/pages/warunki-gwarancji-produktow-thi.html` | `/pliki/dokumenty/warunki-gwarancji-produktow-thi-aj-printers.pdf` |
 
 Na każdej stronie dodaj przycisk:
 
@@ -69,7 +71,7 @@ Link:
 
 Gotowe teksty są w pliku:
 
-`KOMUNIKATY-CMS.md`
+`docs/CMS-KOMUNIKATY.md`
 
 Wklej:
 
@@ -84,7 +86,7 @@ Wklej:
 - czy każdy przycisk `Pobierz PDF` działa;
 - czy PDF otwiera się w nowej karcie;
 - czy protokoły szkody otwierają się publicznie;
-- czy link do zwrotów prowadzi do `https://ajprinters.pl/content/12-zwroty`;
+- czy link do zwrotów prowadzi do `https://ajprinters.pl/content/17-zwroty-regulamin-zwrotow`;
 - czy na telefonie komunikaty nie zasłaniają ceny, koszyka ani przycisku zakupu.
 
 ## 7. Zostaje ręcznie
