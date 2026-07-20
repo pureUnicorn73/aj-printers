@@ -42,7 +42,7 @@ Data obowiązywania: [do uzupełnienia przed publikacją]
 7. Odbiór przesyłki z automatu paczkowego, paczkomatu albo punktu odbioru nie wyłącza potrzeby zachowania należytej staranności przy dokumentowaniu szkody transportowej. Brak dokumentacji może utrudnić lub uniemożliwić skuteczne dochodzenie roszczeń wobec przewoźnika. Powyższe nie ogranicza ustawowych uprawnień Konsumenta ani Przedsiębiorcy na prawach konsumenta.
 
 § 5. Protokoły szkody przewoźników do pobrania
-W przypadku szkody transportowej należy użyć formularza właściwego dla przewoźnika albo formularza udostępnionego przez kuriera, punkt odbioru lub system przewoźnika. Pliki do podlinkowania na stronie:
+W przypadku szkody transportowej należy użyć formularza właściwego dla przewoźnika albo formularza udostępnionego przez kuriera, punkt odbioru lub system przewoźnika. Wybierz przewoźnika, aby pobrać właściwy protokół w formacie PDF:
 - DHL: /pliki/protokoly-szkody/protokol-szkody-dhl.pdf
 - DPD: /pliki/protokoly-szkody/protokol-szkody-dpd.pdf
 - FedEx: /pliki/protokoly-szkody/protokol-szkody-fedex.pdf
@@ -86,23 +86,23 @@ W przypadku szkody transportowej należy użyć formularza właściwego dla prze
 2. Warunki gwarancji, w szczególności jej okres, zakres, wyłączenia oraz sposób realizacji, wynikają z dokumentu gwarancyjnego, opisu Produktu, informacji przekazanej przez gwaranta albo dokumentacji dołączonej do Produktu.
 3. W przypadku produktów oryginalnych OEM okres gwarancji wynika z warunków producenta, dokumentu gwarancyjnego, opisu Produktu albo informacji przekazanej przez dostawcę. Jeżeli przy Produkcie lub w dokumencie gwarancyjnym wskazano inny okres, zastosowanie ma okres wskazany dla danego Produktu.
 4. Jeżeli Produkt jest objęty gwarancją producenta lub innego gwaranta, Klient może zostać poproszony o skorzystanie z procedury wskazanej przez gwaranta, autoryzowany serwis albo producenta. aj printers udzieli Klientowi informacji o dalszym sposobie postępowania w zakresie posiadanych danych.
-5. Pomocnicze odnośniki do wybranych serwisów producentów:
-   a) Brother - wsparcie producenta: https://support.brother.com/;
-   b) Brother - BLASC: https://blasc.pl/zglos-naprawe/;
-   c) Brother - CSS: https://css.pl/zgloszenie-serwisowe/;
-   d) Canon - wsparcie producenta: https://www.canon.pl/support/;
-   e) Canon - Fis-Komp: https://fiskomp.pl/serwis;
-   f) Epson - kontakt producenta: https://www.epson.pl/pl_PL/contactus;
-   g) HP - wsparcie producenta: https://support.hp.com/pl-pl;
-   h) Kyocera - wsparcie producenta: https://www.kyoceradocumentsolutions.pl/pl/support.html;
-   i) Lexmark - wsparcie producenta: https://www.lexmark.com/pl_pl/support.html;
-   j) Logitech - FIXIT: https://fixit-service.com/clients/logitech/;
-   k) Logitech - pomoc producenta: https://support.logi.com/hc/pl/requests/new?ticket_form_id=360000621393;
-   l) OKI - wsparcie producenta: https://www.oki.com/pl/printing/support/;
-   m) Xerox - wsparcie producenta: https://www.xerox.com/pl-pl/biuro/wsparcie.
+5. Pomocnicze odnośniki do wybranych stron producentów i serwisów zewnętrznych. Nie wszystkie odnośniki prowadzą bezpośrednio do formularza reklamacyjnego; część z nich prowadzi do ogólnych stron wsparcia, kontaktu, wyszukiwarki pomocy albo informacji serwisowych producenta.
+   a) Brother - ogólna strona wsparcia producenta: https://support.brother.com/;
+   b) Brother BLASC - strona zgłoszenia naprawy: https://blasc.pl/zglos-naprawe/;
+   c) Brother CSS - strona zgłoszenia serwisowego: https://css.pl/zgloszenie-serwisowe/;
+   d) Canon - ogólna strona wsparcia producenta: https://www.canon.pl/support/;
+   e) Canon Fis-Komp - strona serwisu: https://fiskomp.pl/serwis;
+   f) Epson - strona kontaktu producenta: https://www.epson.pl/pl_PL/contactus;
+   g) HP - ogólna strona wsparcia producenta: https://support.hp.com/pl-pl;
+   h) Kyocera - ogólna strona wsparcia producenta: https://www.kyoceradocumentsolutions.pl/pl/support.html;
+   i) Lexmark - ogólna strona wsparcia producenta: https://www.lexmark.com/pl_pl/support.html;
+   j) Logitech FIXIT - strona obsługi serwisowej: https://fixit-service.com/clients/logitech/;
+   k) Logitech - formularz pomocy producenta: https://support.logi.com/hc/pl/requests/new?ticket_form_id=360000621393;
+   l) OKI - ogólna strona wsparcia producenta: https://www.oki.com/pl/printing/support/;
+   m) Xerox - ogólna strona wsparcia producenta: https://www.xerox.com/pl-pl/biuro/wsparcie.
 6. Dla produktów marek Eleven, Minolta/Konica-Minolta, Ricoh, Samsung, Sharp, Toshiba, Verbatim oraz pozostałych marek, których warunki nie zostały wskazane powyżej, zastosowanie mają warunki producenta, dostawcy, dystrybutora, dokumentu gwarancyjnego albo opis Produktu. Klient może zgłosić sprawę do aj printers, a aj printers przekaże informacje o dalszym sposobie postępowania w zakresie posiadanych danych.
 7. Gwarancje dotyczące produktów pochodzących z oferty Action zostaną uzupełnione po potwierdzeniu właściwych warunków, procedur i odnośników.
-8. Powyższe odnośniki mają charakter pomocniczy. Aktualna procedura gwarancyjna może zależeć od modelu Produktu, kraju dystrybucji, dokumentu gwarancyjnego, decyzji producenta albo autoryzowanego serwisu.
+8. Powyższe odnośniki mają charakter pomocniczy i informacyjny. Aktualna procedura gwarancyjna może zależeć od modelu Produktu, kraju dystrybucji, dokumentu gwarancyjnego, decyzji producenta albo autoryzowanego serwisu. W razie wątpliwości Klient powinien skontaktować się z aj printers przed wysłaniem Produktu do serwisu zewnętrznego.
 9. Gwarancja nie wyłącza, nie ogranicza ani nie zawiesza uprawnień Konsumenta ani Przedsiębiorcy na prawach konsumenta wynikających z przepisów o braku zgodności towaru z umową.
 
 § 10. Produkty THI - gwarancja, reklamacje i uszkodzenie sprzętu
